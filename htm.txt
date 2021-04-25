@@ -1,2085 +1,1159 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-	<head>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script
-			async
-			src="https://www.googletagmanager.com/gtag/js?id=UA-1978569-1"
-		></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag() {
-				dataLayer.push(arguments);
-			}
-			gtag("js", new Date());
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <title>OMG! Ubuntu! - Ubuntu Linux News, Apps and Reviews</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f15d22">
+  <meta property="fb:app_id" content="272768256180082">
+  <link rel="apple-touch-icon"
+        href="https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-20_08_0/images/favicons/favicon-180x180.png">
+  <link rel="icon" type="image/png" sizes="96x96"
+        href="https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-20_08_0/images/favicons/favicon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32"
+        href="https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-20_08_0/images/favicons/favicon-180x180.png">
+  <link rel="icon" type="image/png" sizes="16x16"
+        href="https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-20_08_0/images/favicons/favicon-32x32.png">
+  <link rel="manifest" href="/omg-assets/manifest.json">
+  <meta name="msapplication-TileColor" content="#f15d22" />
+  <meta name="msapplication-TileImage"
+        content="https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-20_08_0/images/favicons/favicon-180x180.png">
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+  <link href='https://fonts.googleapis.com/css?family=Quicksand:400,600,700'
+        rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-20_08_0/style.css?v=1598267633" type="text/css" media="screen">
+  <link rel="stylesheet" href="https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-20_08_0/override.css?v=1615838202" type="text/css" media="screen">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-			gtag("config", "UA-1978569-1");
-		</script>
+	<!-- This site is optimized with the Yoast SEO plugin v16.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Ubuntu Linux News, Apps and Reviews" />
+	<link rel="canonical" href="https://www.omgubuntu.co.uk/" />
+	<link rel="next" href="https://www.omgubuntu.co.uk/page/2" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="OMG! Ubuntu! - Ubuntu Linux News, Apps and Reviews" />
+	<meta property="og:description" content="Ubuntu Linux News, Apps and Reviews" />
+	<meta property="og:url" content="https://www.omgubuntu.co.uk/" />
+	<meta property="og:site_name" content="OMG! Ubuntu!" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@omgubuntu" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.omgubuntu.co.uk/#organization","name":"OMG! Ubuntu!","url":"https://www.omgubuntu.co.uk/","sameAs":["https://facebook.com/omgubuntu","https://instagram.com/omgubuntu","https://youtube.com/omgubuntu","https://twitter.com/omgubuntu"],"logo":{"@type":"ImageObject","@id":"https://www.omgubuntu.co.uk/#logo","inLanguage":"en-GB","url":"https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/03/b3TsvE-A_400x400.jpg","contentUrl":"https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/03/b3TsvE-A_400x400.jpg","width":400,"height":400,"caption":"OMG! Ubuntu!"},"image":{"@id":"https://www.omgubuntu.co.uk/#logo"}},{"@type":"WebSite","@id":"https://www.omgubuntu.co.uk/#website","url":"https://www.omgubuntu.co.uk/","name":"OMG! Ubuntu!","description":"Ubuntu Linux News, Apps and Reviews","publisher":{"@id":"https://www.omgubuntu.co.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.omgubuntu.co.uk/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"CollectionPage","@id":"https://www.omgubuntu.co.uk/#webpage","url":"https://www.omgubuntu.co.uk/","name":"OMG! Ubuntu! - Ubuntu Linux News, Apps and Reviews","isPartOf":{"@id":"https://www.omgubuntu.co.uk/#website"},"about":{"@id":"https://www.omgubuntu.co.uk/#organization"},"description":"Ubuntu Linux News, Apps and Reviews","breadcrumb":{"@id":"https://www.omgubuntu.co.uk/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.omgubuntu.co.uk/"]}]},{"@type":"BreadcrumbList","@id":"https://www.omgubuntu.co.uk/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.omgubuntu.co.uk/","url":"https://www.omgubuntu.co.uk/","name":"Home"}}]}]}</script>
+	<meta name="google-site-verification" content="JcM9JoebAFUWHWzVsWH0IFEDQmR4ELZvQPbmqvCXGNo" />
+	<!-- / Yoast SEO plugin. -->
 
-		<script data-cfasync="false" type="text/javascript">
-			var freestar = freestar || {};
-			freestar.hitTime = Date.now();
-			freestar.queue = freestar.queue || [];
-			freestar.config = freestar.config || {};
-			freestar.debug =
-				window.location.search.indexOf("fsdebug") === -1 ? false : true;
-			freestar.config.enabled_slots = [];
-			!(function (a, b) {
-				var c = b.getElementsByTagName("script")[0],
-					d = b.createElement("script"),
-					e = "https://a.pub.network/phoronix-com";
-				(e += freestar.debug ? "/qa/pubfig.min.js" : "/pubfig.min.js"),
-					(d.async = !0),
-					(d.src = e),
-					c.parentNode.insertBefore(d, c);
-			})(window, document);
-			freestar.initCallback = function () {
-				freestar.config.enabled_slots.length === 0
-					? (freestar.initCallbackCalled = false)
-					: freestar.newAdSlots(freestar.config.enabled_slots);
-			};
-		</script>
-		<title>
-			Linux Hardware Reviews, Open-Source Benchmarks &amp; Linux
-			Performance - Phoronix
-		</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<link rel="stylesheet" href="phxcms-css/phoronix-10.css?2019" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<script
-			type="text/javascript"
-			src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"
-		></script>
-		<meta
-			name="keywords"
-			content="Phoronix, Linux Hardware Reviews, Linux hardware benchmarks, Linux Hardware, Linux benchmarking, Desktop Linux, GNU/Linux benchmarks, Open Source AMD, Linux How To, X.Org drivers, Ubuntu hardware, Phoronix Test Suite"
-		/>
-		<meta
-			name="Description"
-			content="Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests."
-		/>
-		<link
-			rel="alternate"
-			type="application/rss+xml"
-			title="Phoronix"
-			href="rss.php"
-		/>
-		<link rel="shortcut icon" href="favicon.ico" />
-		<link
-			rel="apple-touch-icon"
-			sizes="57x57"
-			href="/apple-touch-icon-57x57.png"
-		/>
-		<link
-			rel="apple-touch-icon"
-			sizes="60x60"
-			href="/apple-touch-icon-60x60.png"
-		/>
-		<link
-			rel="apple-touch-icon"
-			sizes="72x72"
-			href="/apple-touch-icon-72x72.png"
-		/>
-		<link
-			rel="apple-touch-icon"
-			sizes="76x76"
-			href="/apple-touch-icon-76x76.png"
-		/>
-		<link
-			rel="apple-touch-icon"
-			sizes="114x114"
-			href="/apple-touch-icon-114x114.png"
-		/>
-		<link
-			rel="apple-touch-icon"
-			sizes="120x120"
-			href="/apple-touch-icon-120x120.png"
-		/>
-		<link
-			rel="apple-touch-icon"
-			sizes="144x144"
-			href="/apple-touch-icon-144x144.png"
-		/>
-		<link
-			rel="apple-touch-icon"
-			sizes="152x152"
-			href="/apple-touch-icon-152x152.png"
-		/>
-		<link
-			rel="apple-touch-icon"
-			sizes="180x180"
-			href="/apple-touch-icon-180x180.png"
-		/>
-		<link
-			rel="icon"
-			type="image/png"
-			href="/favicon-32x32.png"
-			sizes="32x32"
-		/>
-		<link
-			rel="icon"
-			type="image/png"
-			href="/android-chrome-192x192.png"
-			sizes="192x192"
-		/>
-		<link
-			rel="icon"
-			type="image/png"
-			href="/favicon-96x96.png"
-			sizes="96x96"
-		/>
-		<link
-			rel="icon"
-			type="image/png"
-			href="/favicon-16x16.png"
-			sizes="16x16"
-		/>
-		<meta name="msapplication-TileImage" content="/mstile-144x144.png" />
-		<!-- PHXCMS-11 (phoronix.com) -->
-		<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
-		<script type="text/javascript" async="true">
-			(function () {
-				var host = "phoronix.com";
-				var element = document.createElement("script");
-				var firstScript = document.getElementsByTagName("script")[0];
-				var url = "https://quantcast.mgr.consensu.org".concat(
-					"/choice/",
-					"UEFjU_w924fg3",
-					"/",
-					host,
-					"/choice.js"
-				);
-				var uspTries = 0;
-				var uspTriesLimit = 3;
-				element.async = true;
-				element.type = "text/javascript";
-				element.src = url;
 
-				firstScript.parentNode.insertBefore(element, firstScript);
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="OMG! Ubuntu! &raquo; Feed" href="https://www.omgubuntu.co.uk/feed" />
+<link rel="alternate" type="application/rss+xml" title="OMG! Ubuntu! &raquo; Comments Feed" href="https://www.omgubuntu.co.uk/comments/feed" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v7.17.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-4473056-12"  type="text/javascript" data-cfasync="false"></script>
+			<script type="text/javascript" data-cfasync="false">
+				var mi_version = '7.17.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStr = 'ga-disable-UA-4473056-12';
 
-				function makeStub() {
-					var TCF_LOCATOR_NAME = "__tcfapiLocator";
-					var queue = [];
-					var win = window;
-					var cmpFrame;
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					return document.cookie.indexOf( disableStr + '=true' ) > - 1;
+				}
 
-					function addFrame() {
-						var doc = win.document;
-						var otherCMP = !!win.frames[TCF_LOCATOR_NAME];
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					window[disableStr] = true;
+				}
 
-						if (!otherCMP) {
-							if (doc.body) {
-								var iframe = doc.createElement("iframe");
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+					window[disableStr] = true;
+				}
 
-								iframe.style.cssText = "display:none";
-								iframe.name = TCF_LOCATOR_NAME;
-								doc.body.appendChild(iframe);
-							} else {
-								setTimeout(addFrame, 5);
-							}
-						}
-						return !otherCMP;
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
 					}
-
-					function tcfAPIHandler() {
-						var gdprApplies;
-						var args = arguments;
-
-						if (!args.length) {
-							return queue;
-						} else if (args[0] === "setGdprApplies") {
-							if (
-								args.length > 3 &&
-								args[2] === 2 &&
-								typeof args[3] === "boolean"
-							) {
-								gdprApplies = args[3];
-								if (typeof args[2] === "function") {
-									args[2]("set", true);
-								}
-							}
-						} else if (args[0] === "ping") {
-							var retr = {
-								gdprApplies: gdprApplies,
-								cmpLoaded: false,
-								cmpStatus: "stub",
+				}
+								window.dataLayer = window.dataLayer || [];
+				if ( mi_track_user ) {
+					function __gtagTracker() {dataLayer.push( arguments );}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+						                    });
+					__gtagTracker( 'config', 'UA-4473056-12', {
+						forceSSL:true,anonymize_ip:true,					} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
 							};
-
-							if (typeof args[2] === "function") {
-								args[2](retr);
-							}
-						} else {
-							queue.push(args);
-						}
-					}
-
-					function postMessageEventHandler(event) {
-						var msgIsString = typeof event.data === "string";
-						var json = {};
-
-						try {
-							if (msgIsString) {
-								json = JSON.parse(event.data);
-							} else {
-								json = event.data;
-							}
-						} catch (ignore) {}
-
-						var payload = json.__tcfapiCall;
-
-						if (payload) {
-							window.__tcfapi(
-								payload.command,
-								payload.version,
-								function (retValue, success) {
-									var returnMsg = {
-										__tcfapiReturn: {
-											returnValue: retValue,
-											success: success,
-											callId: payload.callId,
-										},
-									};
-									if (msgIsString) {
-										returnMsg = JSON.stringify(returnMsg);
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof (
+											arguments[1].hitType
+										) ) {
+											hitObject = arguments[1];
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
 									}
-									event.source.postMessage(returnMsg, "*");
-								},
-								payload.parameter
-							);
+									return;
+								}
+
+								function mapArgs( args ) {
+									var gaKey, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+									};
+									for ( gaKey in gaMap ) {
+										if ( 'undefined' !== typeof args[gaKey] ) {
+											hit[gaMap[gaKey]] = args[gaKey];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.omgubuntu.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://149366088.v2.pressablecdn.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='https://149366088.v2.pressablecdn.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.6.1' type='text/css' media='all' />
+<script type='text/javascript' id='monsterinsights-frontend-script-js-extra'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.omgubuntu.co.uk","hash_tracking":"false","ua":"UA-4473056-12"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://149366088.v2.pressablecdn.com/wp-content/plugins/google-analytics-premium/assets/js/frontend-gtag.min.js?ver=7.17.0' id='monsterinsights-frontend-script-js'></script>
+<link rel="https://api.w.org/" href="https://www.omgubuntu.co.uk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.omgubuntu.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.omgubuntu.co.uk/wp-includes/wlwmanifest.xml" /> 
+
+<style type='text/css'>img#wpstats{display:none}</style>
+		<!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/cropped-ava-tar-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/cropped-ava-tar-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/cropped-ava-tar-180x180.png" />
+<meta name="msapplication-TileImage" content="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/cropped-ava-tar-270x270.png" />
+</head>
+<body class="home blog wp-embed-responsive home--with-atf">
+<script>
+  (function() {
+    var svgPath = "https://www.omgubuntu.co.uk/wp-content/themes/omgubuntu-theme-20_08_0/icons.svg?v=1598267633";
+    var ajax = new XMLHttpRequest();ajax.open('GET', svgPath, true);
+    ajax.send(); ajax.onload = function(e) {
+      if (ajax.status === 200) {
+        var div = document.createElement('div'); div.style = 'display: none'; div.innerHTML = ajax.responseText;
+        document.body.insertBefore(div, document.body.childNodes[0]);
+      }
+    }
+  })(); </script>
+<a class="skip-link" href="#after-header">Skip to content</a>
+<header class="header">
+  <div class="header__content u--box">
+    <a class="header__link" href="https://www.omgubuntu.co.uk/">
+      <img class="header__logo" title="Go to the homepage" src="https://www.omgubuntu.co.uk/wp-content/themes/omgubuntu-theme-20_08_0/images/logo.svg" alt="OMG! Ubuntu!">    </a>
+    <ul id="menu-v4-social" class="header__socials"><li id="menu-item-131567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131567"><a href="https://facebook.com/omgubuntu"><svg class='Icon Icon--facebook'><use xlink:href='#Icon--facebook'></svg></a></li>
+<li id="menu-item-131566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131566"><a href="https://twitter.com/omgubuntu"><svg class='Icon Icon--twitter'><use xlink:href='#Icon--twitter'></svg></a></li>
+<li id="menu-item-131593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131593"><a href="https://youtube.com/omgubuntu"><svg class='Icon Icon--youtube'><use xlink:href='#Icon--youtube'></svg></a></li>
+<li id="menu-item-211513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211513"><a href="https://omgubuntu.co.uk/feed"><svg class='Icon Icon--feed'><use xlink:href='#Icon--feed'></svg></a></li>
+</ul>    <div class="header__nav">
+      <ul id="menu-v4-navigation-menu" class="header__menu styled-menu u--box"><li id="menu-item-143727" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143727"><a href="http://omgubuntu.co.uk/tag/ubuntu-21-04">Hirsute Hippo</a></li>
+<li id="menu-item-151905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151905"><a href="https://www.omgubuntu.co.uk/category/hardware-2">Hardware</a></li>
+<li id="menu-item-135563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135563"><a href="https://www.omgubuntu.co.uk/tag/distros">Distros</a>
+<ul class="sub-menu">
+	<li id="menu-item-135564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135564"><a href="https://www.omgubuntu.co.uk/tag/elementary">elementary OS</a></li>
+	<li id="menu-item-173383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173383"><a href="https://www.omgubuntu.co.uk/tag/bodhi">Bodhi Linux</a></li>
+	<li id="menu-item-163747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163747"><a href="https://www.omgubuntu.co.uk/tag/kde-neon">KDE Neon</a></li>
+	<li id="menu-item-133395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133395"><a href="https://www.omgubuntu.co.uk/tag/linux-mint">Linux Mint</a></li>
+	<li id="menu-item-175856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-175856"><a href="https://www.omgubuntu.co.uk/tag/pop-os">Pop!_OS</a></li>
+	<li id="menu-item-163748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163748"><a href="https://www.omgubuntu.co.uk/tag/regolith">Regolith Linux</a></li>
+	<li id="menu-item-143728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143728"><a href="https://omgubuntu.co.uk/tag/zorin">Zorin OS</a></li>
+</ul>
+</li>
+<li id="menu-item-131584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131584"><a href="https://www.omgubuntu.co.uk/tip"><strong>Got News?</strong></a></li>
+</ul>      <div class="header__search">
+        <button class="header__search-button is-link">
+          <svg class="icon"><use xlink:href="#Icon--search" /></svg>
+        </button>
+        <form action="/" class="header__search-menu">
+          <input class="header__search-input" name="s" type="text" placeholder="Enter Search Term" />
+        </form>
+      </div>
+    </div>
+    <button class="header__nav-toggle is-link">
+      <svg class="icon"><use xlink:href="#Icon--menu" /></svg>
+    </button>
+  </div>
+  <div class="header__mobile">
+    <div class="header__mobile-header">
+      <a class="header__mobile-logo" href="https://www.omgubuntu.co.uk/">
+          <img class="header__logo" title="Go to the homepage" src="https://www.omgubuntu.co.uk/wp-content/themes/omgubuntu-theme-20_08_0/images/logo.svg" alt="OMG! Ubuntu!">      </a>
+      <button type="button" class="header__mobile-close is-link">
+          <svg class="icon"><use xlink:href="#Icon--close" /></svg>
+      </button>
+    </div>
+    <div class="header__mobile-content">
+      <form action="/" class="header__mobile-search">
+        <svg class="icon"><use xlink:href="#Icon--search" /></svg>
+        <input class="header__search-input header__search-input--mobile"
+               name="s" type="text" placeholder="Enter Search Term" />
+      </form>
+      <ul id="menu-v4-navigation-menu-1" class="header__mobile-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143727"><a href="http://omgubuntu.co.uk/tag/ubuntu-21-04">Hirsute Hippo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151905"><a href="https://www.omgubuntu.co.uk/category/hardware-2">Hardware</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135563"><a href="https://www.omgubuntu.co.uk/tag/distros">Distros</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135564"><a href="https://www.omgubuntu.co.uk/tag/elementary">elementary OS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173383"><a href="https://www.omgubuntu.co.uk/tag/bodhi">Bodhi Linux</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163747"><a href="https://www.omgubuntu.co.uk/tag/kde-neon">KDE Neon</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133395"><a href="https://www.omgubuntu.co.uk/tag/linux-mint">Linux Mint</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-175856"><a href="https://www.omgubuntu.co.uk/tag/pop-os">Pop!_OS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163748"><a href="https://www.omgubuntu.co.uk/tag/regolith">Regolith Linux</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143728"><a href="https://omgubuntu.co.uk/tag/zorin">Zorin OS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131584"><a href="https://www.omgubuntu.co.uk/tip"><strong>Got News?</strong></a></li>
+</ul>      <ul id="menu-v4-social-1" class="header__socials--mobile"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131567"><a href="https://facebook.com/omgubuntu"><svg class='Icon Icon--facebook'><use xlink:href='#Icon--facebook'></svg></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131566"><a href="https://twitter.com/omgubuntu"><svg class='Icon Icon--twitter'><use xlink:href='#Icon--twitter'></svg></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131593"><a href="https://youtube.com/omgubuntu"><svg class='Icon Icon--youtube'><use xlink:href='#Icon--youtube'></svg></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211513"><a href="https://omgubuntu.co.uk/feed"><svg class='Icon Icon--feed'><use xlink:href='#Icon--feed'></svg></a></li>
+</ul>    </div>
+  </div>
+  <div class="header__mobile-background" />
+</header>
+<div id="after-header"></div>
+<div class="u--box homepage__atf">
+        <div class="slider-layout__container homepage-layout splide">
+          <div class="splide__arrows">
+            <button class="splide__arrow splide__arrow--prev"
+                    aria-label="Previous Slide"><svg><use xlink:href="#Icon--arrow-right" /></svg></button>
+            <button class="splide__arrow splide__arrow--next"
+                    aria-label="Next Slide"><svg><use xlink:href="#Icon--arrow-right" /></svg></button>
+          </div>
+          <div class="splide__track">
+          <ul class="slider-layout splide__list">
+                    <li class="splide__slide">
+              <div class="slider-layout__slide">
+                  <a aria-label="Read Everything You Need to Know About GNOME 40"
+                     data-vars-ga-category="Loop Article" data-vars-ga-action="Slider Layout Item"
+                     data-vars-ga-label="https://www.omgubuntu.co.uk/2021/03/gnome-40-new-features"
+                     aria-label="Read more about Everything You Need to Know About GNOME 40"
+                     class="slider-layout__link-overlay" href="https://www.omgubuntu.co.uk/2021/03/gnome-40-new-features"></a>
+                  <div class="slider-layout__image-container layout__image-container">
+            <img width="840" height="480" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/app-grid-840x480.jpg" class="attachment-featured-post size-featured-post" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/app-grid-840x480.jpg 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/app-grid-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/app-grid-406x232.jpg 406w " sizes="(max-width: 840px) 100vw, 840px" />                  </div>
+                  <div class="slider-layout__slide-content">
+                                    <a class="slider-layout__slide-category tt-u"
+                                           href="https://www.omgubuntu.co.uk/category/feature">
+                Feature                        </a>
+                                <a
+                        class="slider-layout__slide-link"
+                        href="https://www.omgubuntu.co.uk/2021/03/gnome-40-new-features"
+                        data-vars-ga-category="Loop Article" data-vars-ga-action="Slider Layout Item"
+                        data-vars-ga-label="https://www.omgubuntu.co.uk/2021/03/gnome-40-new-features"
+                    >
+                        Everything You Need to Know About GNOME 40                    </a>
+                    <div class="slider-layout__meta">
+                                      By <a class="post-author"
+                             href="https://www.omgubuntu.co.uk/author/d0od"
+                             title="View all posts by Joey Sneddon">
+                Joey Sneddon                          </a>
+                          <span class="post-meta__divider">&middot;</span>
+                        <a href="https://www.omgubuntu.co.uk/2021/03/gnome-40-new-features"><span class="dsq-postid" data-dsqidentifier="220188 https://www.omgubuntu.co.uk/?p=220188">Comment</span></a>                    </div>
+                  </div>
+              </div>
+            </li>
+                    <li class="splide__slide">
+              <div class="slider-layout__slide">
+                  <a aria-label="Read &#8216;Spot&#8217; is a Native Spotify App for Linux, Built in GTK &#038; Rust"
+                     data-vars-ga-category="Loop Article" data-vars-ga-action="Slider Layout Item"
+                     data-vars-ga-label="https://www.omgubuntu.co.uk/2021/02/spot-gtk-spotify-client-for-linux"
+                     aria-label="Read more about &#8216;Spot&#8217; is a Native Spotify App for Linux, Built in GTK &#038; Rust"
+                     class="slider-layout__link-overlay" href="https://www.omgubuntu.co.uk/2021/02/spot-gtk-spotify-client-for-linux"></a>
+                  <div class="slider-layout__image-container layout__image-container">
+            <img width="838" height="480" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/spotify-command-line.png" class="attachment-featured-post size-featured-post" alt="spotify pixelated logo" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/spotify-command-line.png 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/spotify-command-line-300x172.png 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/spotify-command-line-750x429.png 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/spotify-command-line-350x200.png 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/spotify-command-line-768x440.png 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/spotify-command-line-406x232.png 406w " sizes="(max-width: 838px) 100vw, 838px" />                  </div>
+                  <div class="slider-layout__slide-content">
+                                    <a class="slider-layout__slide-category tt-u"
+                style="background:#4b9ced"                           href="https://www.omgubuntu.co.uk/category/app">
+                Apps                        </a>
+                                <a
+                        class="slider-layout__slide-link"
+                        href="https://www.omgubuntu.co.uk/2021/02/spot-gtk-spotify-client-for-linux"
+                        data-vars-ga-category="Loop Article" data-vars-ga-action="Slider Layout Item"
+                        data-vars-ga-label="https://www.omgubuntu.co.uk/2021/02/spot-gtk-spotify-client-for-linux"
+                    >
+                        &#8216;Spot&#8217; is a Native Spotify App for Linux, Built in GTK &#038; Rust                    </a>
+                    <div class="slider-layout__meta">
+                        <a href="https://www.omgubuntu.co.uk/2021/02/spot-gtk-spotify-client-for-linux"><span class="dsq-postid" data-dsqidentifier="216430 https://www.omgubuntu.co.uk/?p=216430">Comment</span></a>                    </div>
+                  </div>
+              </div>
+            </li>
+                    <li class="splide__slide">
+              <div class="slider-layout__slide">
+                  <a aria-label="Read PinePhone Picks a Default OS "
+                     data-vars-ga-category="Loop Article" data-vars-ga-action="Slider Layout Item"
+                     data-vars-ga-label="https://www.omgubuntu.co.uk/2021/02/pinephone-picks-manjaro-with-plasma-mobile-as-default-os"
+                     aria-label="Read more about PinePhone Picks a Default OS "
+                     class="slider-layout__link-overlay" href="https://www.omgubuntu.co.uk/2021/02/pinephone-picks-manjaro-with-plasma-mobile-as-default-os"></a>
+                  <div class="slider-layout__image-container layout__image-container">
+            <img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/02/pinephone-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/02/pinephone-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/02/pinephone-300x172.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/02/pinephone-750x430.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/02/pinephone-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/02/pinephone-768x440.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/02/pinephone-840x480.jpg 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/02/pinephone.jpg 1280w " sizes="(max-width: 406px) 100vw, 406px" />                  </div>
+                  <div class="slider-layout__slide-content">
+                                    <a class="slider-layout__slide-category tt-u"
+                style="background:#f9924d"                           href="https://www.omgubuntu.co.uk/category/news">
+                News                        </a>
+                                <a
+                        class="slider-layout__slide-link"
+                        href="https://www.omgubuntu.co.uk/2021/02/pinephone-picks-manjaro-with-plasma-mobile-as-default-os"
+                        data-vars-ga-category="Loop Article" data-vars-ga-action="Slider Layout Item"
+                        data-vars-ga-label="https://www.omgubuntu.co.uk/2021/02/pinephone-picks-manjaro-with-plasma-mobile-as-default-os"
+                    >
+                        PinePhone Picks a Default OS                     </a>
+                    <div class="slider-layout__meta">
+                        <a href="https://www.omgubuntu.co.uk/2021/02/pinephone-picks-manjaro-with-plasma-mobile-as-default-os"><span class="dsq-postid" data-dsqidentifier="216325 https://www.omgubuntu.co.uk/?p=216325">Comment</span></a>                    </div>
+                  </div>
+              </div>
+            </li>
+                  </ul>
+          </div>
+        </div></div>
+<div class="u--box content-container homepage__btf">
+    <div class="loop">
+        <div class="layout__header layout__header--with-divider "><h2><strong>Latest</strong> Posts</h2></div><div class="sbs-layout homepage-layout">          <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+             sbs-layout__image--expanded"
+            >
+              <a aria-label="Read Catch Up With the Ubuntu Desktop Team Live Stream"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/new-ubuntu-desktop-live-stream"
+                 href="https://www.omgubuntu.co.uk/2021/04/new-ubuntu-desktop-live-stream"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="small-hands" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-750x429.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/new-ubuntu-desktop-live-stream"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/new-ubuntu-desktop-live-stream">
+            <span class="post-title--coverline">Don't Miss:</span>             Catch Up With the Ubuntu Desktop Team Live Stream                </a>
+              </h3>
+              <p class="layout__description">Got questions about the Ubuntu desktop? Want to probe the minds of the people who make the distro that millions of people use daily? Today's your chance!</p>
+              <div class="layout__meta">
+                <div class="layout__date">Friday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/new-ubuntu-desktop-live-stream"><span class="dsq-postid" data-dsqidentifier="222110 https://www.omgubuntu.co.uk/?p=222110">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read NextCloud is Currently Broken in Ubuntu 21.04, But a Fix is Coming"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/nextcloud-is-broken-in-ubuntu-21-04-but-a-fix-is-coming"
+                 href="https://www.omgubuntu.co.uk/2021/04/nextcloud-is-broken-in-ubuntu-21-04-but-a-fix-is-coming"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/nextcloud-borked-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="nextcloud bug in Ubuntu 21.04" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/nextcloud-borked-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/nextcloud-borked-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/nextcloud-borked-750x429.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/nextcloud-borked-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/nextcloud-borked-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/nextcloud-borked.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/nextcloud-is-broken-in-ubuntu-21-04-but-a-fix-is-coming"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/nextcloud-is-broken-in-ubuntu-21-04-but-a-fix-is-coming">
+                        NextCloud is Currently Broken in Ubuntu 21.04, But a Fix is Coming                </a>
+              </h3>
+              <p class="layout__description">NextCloud users considering an upgrade to Ubuntu 21.04 might want to hold off for a few days as the  NextCloud package in Ubuntu is currently broken.</p>
+              <div class="layout__meta">
+                <div class="layout__date">Friday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/nextcloud-is-broken-in-ubuntu-21-04-but-a-fix-is-coming"><span class="dsq-postid" data-dsqidentifier="222076 https://www.omgubuntu.co.uk/?p=222076">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read Ubuntu 21.04 Flavours Released, This is What&#8217;s New"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/ubuntu-21-04-flavours-released"
+                 href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="Ubuntu Flavors Logos" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-750x429.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/ubuntu-21-04-flavours-released"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released">
+                        Ubuntu 21.04 Flavours Released, This is What&#8217;s New                </a>
+              </h3>
+              <p class="layout__description">Ubuntu 21.04 release is out and so are brand new versions of the official Ubuntu flavours. We run-through what's new in Xubuntu, Kubuntu et al in this post.</p>
+              <div class="layout__meta">
+                <div class="layout__date">Thursday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released"><span class="dsq-postid" data-dsqidentifier="221394 https://www.omgubuntu.co.uk/?p=221394">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read Ubuntu 21.04 Released, Available to Download"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/its-here-ubuntu-21-04-is-now-available-to-download"
+                 href="https://www.omgubuntu.co.uk/2021/04/its-here-ubuntu-21-04-is-now-available-to-download"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-750x428.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-840x480.jpg 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021.jpg 1280w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/its-here-ubuntu-21-04-is-now-available-to-download"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/its-here-ubuntu-21-04-is-now-available-to-download">
+            <span class="post-title--coverline">Download Now:</span>             Ubuntu 21.04 Released, Available to Download                </a>
+              </h3>
+              <p class="layout__description">You can now download Ubuntu 21.04 from the Ubuntu website. In this post we recap the biggest changes in the 'Hirsute Hippo', and share the download link.</p>
+              <div class="layout__meta">
+                <div class="layout__date">Thursday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/its-here-ubuntu-21-04-is-now-available-to-download"><span class="dsq-postid" data-dsqidentifier="221779 https://www.omgubuntu.co.uk/?p=221779">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read Ubuntu 21.10 Codename Revealed — And it&#8217;s an Intriguing Choice"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/ubuntu-21-10-codename-revealed"
+                 href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-10-codename-revealed"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/2110-codename-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/2110-codename-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/2110-codename-300x172.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/2110-codename-750x430.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/2110-codename-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/2110-codename-768x440.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/2110-codename-840x480.jpg 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/2110-codename.jpg 1280w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/ubuntu-21-10-codename-revealed"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-10-codename-revealed">
+                        Ubuntu 21.10 Codename Revealed — And it&#8217;s an Intriguing Choice                </a>
+              </h3>
+              <p class="layout__description">The codename for the next Ubuntu release is revealed! In this post we share the codename, explain it, and ask if it holds any clues on what we can expect…</p>
+              <div class="layout__meta">
+                <div class="layout__date">Thursday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-10-codename-revealed"><span class="dsq-postid" data-dsqidentifier="221904 https://www.omgubuntu.co.uk/?p=221904">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read Microsoft Demos GUI Linux Apps Running on Windows 10"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/run-linux-apps-on-windows-wsl-2"
+                 href="https://www.omgubuntu.co.uk/2021/04/run-linux-apps-on-windows-wsl-2"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/windows-1-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/windows-1-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/windows-1-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/windows-1-840x480.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/run-linux-apps-on-windows-wsl-2"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/run-linux-apps-on-windows-wsl-2">
+                        Microsoft Demos GUI Linux Apps Running on Windows 10                </a>
+              </h3>
+              <p class="layout__description">Ever wanted to run desktop Linux apps on Windows 10? Microsoft's WSL engineering team are making this strange marriage a reality, as this demo video shows!</p>
+              <div class="layout__meta">
+                <div class="layout__date">Wednesday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/run-linux-apps-on-windows-wsl-2"><span class="dsq-postid" data-dsqidentifier="221749 https://www.omgubuntu.co.uk/?p=221749">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read New Video Hypes Up the Ultimate Linux Tablet: the JingPad A1"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/jingpad-linux-tablet-crowdfunding-tease"
+                 href="https://www.omgubuntu.co.uk/2021/04/jingpad-linux-tablet-crowdfunding-tease"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/jingpad-a1-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/jingpad-a1-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/jingpad-a1-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/jingpad-a1-750x428.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/jingpad-a1-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/jingpad-a1-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/jingpad-a1-840x480.jpg 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/jingpad-a1.jpg 1280w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/jingpad-linux-tablet-crowdfunding-tease"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/jingpad-linux-tablet-crowdfunding-tease">
+                        New Video Hypes Up the Ultimate Linux Tablet: the JingPad A1                </a>
+              </h3>
+              <p class="layout__description">The folks behind the JingOS Linux distro plan to launch a crowdfunding campaign for an ARM-powered tablet preloaded with their Ubuntu-based OS in the summer. Ahead of that campaign launch, JingOS devs have shared a [&hellip;]</p>
+              <div class="layout__meta">
+                <div class="layout__date">Wednesday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/jingpad-linux-tablet-crowdfunding-tease"><span class="dsq-postid" data-dsqidentifier="221723 https://www.omgubuntu.co.uk/?p=221723">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read Ubuntu 21.04: What&#8217;s New? [Video]"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/ubuntu-21-04-whats-new-video"
+                 href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-whats-new-video"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/ubuntu-whats-new-colour--406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/ubuntu-whats-new-colour--406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/ubuntu-whats-new-colour--350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/ubuntu-whats-new-colour--840x480.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/ubuntu-21-04-whats-new-video"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-whats-new-video">
+            <span class="post-title--coverline">Don't Miss:</span>             Ubuntu 21.04: What&#8217;s New? [Video]                </a>
+              </h3>
+              <p class="layout__description">What's new in Ubuntu 21.04 'Hirsute Hippo'? How about ALL this! Yes, to hype the new release we've handcrafted a short video showcasing its biggest changes.</p>
+              <div class="layout__meta">
+                <div class="layout__date">Wednesday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-whats-new-video"><span class="dsq-postid" data-dsqidentifier="221101 https://www.omgubuntu.co.uk/?p=221101">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read Mozilla Firefox 88 Released, This is What&#8217;s New"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/firefox-88-new-features"
+                 href="https://www.omgubuntu.co.uk/2021/04/firefox-88-new-features"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/firefox-88-1-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/firefox-88-1-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/firefox-88-1-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/firefox-88-1-840x480.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/firefox-88-new-features"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/firefox-88-new-features">
+                        Mozilla Firefox 88 Released, This is What&#8217;s New                </a>
+              </h3>
+              <p class="layout__description">Mozilla has announced the release of Firefox 88. The latest version of the famed FOSS app enabled &#8216;smooth pinch-zooming using a touchpad&#8217; on Linux systems. Additionally, the browser&#8217;s built-in PDF form filler now supports JavaScript [&hellip;]</p>
+              <div class="layout__meta">
+                <div class="layout__date">Tuesday</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/firefox-88-new-features"><span class="dsq-postid" data-dsqidentifier="221654 https://www.omgubuntu.co.uk/?p=221654">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read Ubuntu 21.04 &#8216;Hirsute Hippo&#8217; T-Shirt Now Available to Order"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/ubuntu-hippo-t-shirt"
+                 href="https://www.omgubuntu.co.uk/2021/04/ubuntu-hippo-t-shirt"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/hippo-artwork-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="hirsute hippo artowkr" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/hippo-artwork-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/hippo-artwork-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/hippo-artwork-750x429.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/hippo-artwork-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/hippo-artwork-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/hippo-artwork.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/ubuntu-hippo-t-shirt"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-hippo-t-shirt">
+                        Ubuntu 21.04 &#8216;Hirsute Hippo&#8217; T-Shirt Now Available to Order                </a>
+              </h3>
+              <p class="layout__description">Want the world your Zoom colleagues to know how excited you about Ubuntu 21.04, which is released on April 22? If so, check out a hip new t-shirt from the French-speaking Ubuntu community. They produce [&hellip;]</p>
+              <div class="layout__meta">
+                <div class="layout__date">16 April 2021</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/ubuntu-hippo-t-shirt"><span class="dsq-postid" data-dsqidentifier="221597 https://www.omgubuntu.co.uk/?p=221597">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="sbs-layout__item">
+            <div
+              class="layout__image-container sbs-layout__image
+            "
+            >
+              <a aria-label="Read Shortwave 2.0 Arrives with GTK 4 Port, Slick Mini-Player Mode"
+                 data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                 data-vars-ga-label="/2021/04/shortwave-2-0-released-gtk4-miniplayer"
+                 href="https://www.omgubuntu.co.uk/2021/04/shortwave-2-0-released-gtk4-miniplayer"><img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/shortwave-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/shortwave-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/shortwave-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/shortwave-750x427.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/shortwave-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/shortwave-768x437.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/shortwave-840x480.jpg 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/shortwave.jpg 1280w " sizes="(max-width: 406px) 100vw, 406px" /></a>
+            </div>
+            <div class="sbs-layout__content">
+              <h3 class="layout__title">
+                <a data-vars-ga-category="Loop Article" data-vars-ga-action="Side-by-Side Layout Item"
+                   data-vars-ga-label="/2021/04/shortwave-2-0-released-gtk4-miniplayer"
+                   class="layout__title-link" href="https://www.omgubuntu.co.uk/2021/04/shortwave-2-0-released-gtk4-miniplayer">
+                        Shortwave 2.0 Arrives with GTK 4 Port, Slick Mini-Player Mode                </a>
+              </h3>
+              <p class="layout__description">A new version of Shortwave, an open source desktop radio player for Linux, is out and it&#8217;s front-loaded with improvements! Such as? Well, check out its fancy new GTK4 interface. Yes, Shortwave 2.0 has seen [&hellip;]</p>
+              <div class="layout__meta">
+                <div class="layout__date">13 April 2021</div>
+                <div class="layout__comments">
+            <a href="https://www.omgubuntu.co.uk/2021/04/shortwave-2-0-released-gtk4-miniplayer"><span class="dsq-postid" data-dsqidentifier="221496 https://www.omgubuntu.co.uk/?p=221496">Comment</span></a>                </div>
+              </div>
+            </div>
+          </div>
+            </div>
+                  <nav class="pagination__container">
+                    <ul class="pagination">
+        <li class="pagination__button pagination__button--previous" aria-label="Previous page">
+                </li>
+                    <li>
+                <a href="https://www.omgubuntu.co.uk/" class="pagination__page pagination__page--current">
+            1                </a>
+            </li>
+                    <li>
+                <a href="https://www.omgubuntu.co.uk/page/2" class="pagination__page">
+            2                </a>
+            </li>
+                    <li>
+                <a href="https://www.omgubuntu.co.uk/page/3" class="pagination__page">
+            3                </a>
+            </li>
+                    <li>
+                <a href="https://www.omgubuntu.co.uk/page/4" class="pagination__page">
+            4                </a>
+            </li>
+                    <li>
+                <a href="https://www.omgubuntu.co.uk/page/5" class="pagination__page">
+            5                </a>
+            </li>
+                <li class="pagination__button pagination__button--next" aria-label="Next page">
+        <a href="https://www.omgubuntu.co.uk/page/2" ><svg class="icon"><use xlink:href="#Icon--arrow-right" /></svg></a>        </li>
+        </ul>          </nav>
+            </div>
+    <div id="secondary" class="sidebar">
+    <aside id="text-45" class="widget widget_text" role="complementary">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- OU LOWER SIDEBAR -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0405626765411172"
+     data-ad-slot="9759034449"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside id="omg_most_popular_widget-3" class="widget widget_omg_most_popular_widget" role="complementary"><div class="layout__header layout__header--with-divider"><h2 class="widget-title"><strong>Popular</strong> This Week</h2></div>        <!-- Last update 2021-04-25 17:53:53 -->
+        <ul class="MostPopular">
+                        <li class="MostPopular-item">
+                    <a href="https://www.omgubuntu.co.uk/2021/04/its-here-ubuntu-21-04-is-now-available-to-download" class="MostPopular-link">
+                        <div class="most-popular__thumbnail-container">
+                            <div class="most-popular-thumbnail">
+            <img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-750x428.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021-840x480.jpg 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/download-now-2021.jpg 1280w " sizes="(max-width: 406px) 100vw, 406px" />                            </div>
+                        </div>
+                        <div class="MostPopular-title">
+                            <span class="MostPopular-caption">Download</span>
+                            <span class="MostPopular-text">Ubuntu 21.04 Released, Available to Download</span>
+                        </div>
+                    </a>
+                </li>
+                        <li class="MostPopular-item">
+                    <a href="https://www.omgubuntu.co.uk/2021/01/ubuntu-21-04-release-features" class="MostPopular-link">
+                        <div class="most-popular__thumbnail-container">
+                            <div class="most-popular-thumbnail">
+            <img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/ubuntu-21.04-release-features-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="Ubuntu 21.04 Release Info" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/ubuntu-21.04-release-features-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/ubuntu-21.04-release-features-300x172.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/ubuntu-21.04-release-features-750x430.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/ubuntu-21.04-release-features-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/ubuntu-21.04-release-features-768x440.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/ubuntu-21.04-release-features-840x480.jpg 840w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/ubuntu-21.04-release-features.jpg 1280w " sizes="(max-width: 406px) 100vw, 406px" />                            </div>
+                        </div>
+                        <div class="MostPopular-title">
+                            <span class="MostPopular-caption">Guide</span>
+                            <span class="MostPopular-text">Ubuntu 21.04 Release Date &#038; New Features</span>
+                        </div>
+                    </a>
+                </li>
+                        <li class="MostPopular-item">
+                    <a href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released" class="MostPopular-link">
+                        <div class="most-popular__thumbnail-container">
+                            <div class="most-popular-thumbnail">
+            <img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="Ubuntu Flavors Logos" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors-750x429.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/09/ubuntu-flavors.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" />                            </div>
+                        </div>
+                        <div class="MostPopular-title">
+                            <span class="MostPopular-caption">Recap</span>
+                            <span class="MostPopular-text">Ubuntu 21.04 Flavours Released, This is What&#8217;s New</span>
+                        </div>
+                    </a>
+                </li>
+                        <li class="MostPopular-item">
+                    <a href="https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10" class="MostPopular-link">
+                        <div class="most-popular__thumbnail-container">
+                            <div class="most-popular-thumbnail">
+            <img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/06/wsl-2-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/06/wsl-2-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/06/wsl-2-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/06/wsl-2-750x429.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/06/wsl-2-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/06/wsl-2-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/06/wsl-2.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" />                            </div>
+                        </div>
+                        <div class="MostPopular-title">
+                            <span class="MostPopular-caption">Guide</span>
+                            <span class="MostPopular-text">How to Install WSL 2 on Windows 10 (Updated)</span>
+                        </div>
+                    </a>
+                </li>
+                        <li class="MostPopular-item">
+                    <a href="https://www.omgubuntu.co.uk/2021/04/new-ubuntu-desktop-live-stream" class="MostPopular-link">
+                        <div class="most-popular__thumbnail-container">
+                            <div class="most-popular-thumbnail">
+            <img width="406" height="232" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-406x232.jpg" class="attachment-post-list size-post-list wp-post-image" alt="small-hands" loading="lazy" srcset="https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-406x232.jpg 406w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-300x171.jpg 300w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-750x429.jpg 750w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-350x200.jpg 350w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands-768x439.jpg 768w , https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/04/small-hands.jpg 840w " sizes="(max-width: 406px) 100vw, 406px" />                            </div>
+                        </div>
+                        <div class="MostPopular-title">
+                            <span class="MostPopular-caption">Community</span>
+                            <span class="MostPopular-text">Catch Up With the Ubuntu Desktop Team Live Stream</span>
+                        </div>
+                    </a>
+                </li>
+                </ul>
+        </aside><aside id="text-49" class="widget widget_text" role="complementary">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" ></script>
+<!-- OU3rd -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0405626765411172"
+     data-ad-slot="3108947645"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside id="omg_disqus_recent_comments-2" class="widget widget_omg_disqus_recent_comments" role="complementary"><div class="layout__header layout__header--with-divider"><h2 class="widget-title"><strong>New</strong> Comments</h2></div>    <!-- Last update 2021-04-25 17:53:50 -->
+    <div class="disqus-widget">
+                <div class="disqus-widget__comment">
+          <div class="disqus-widget__avatar">
+            <img src="https://c.disquscdn.com/uploads/forums/17/8048/avatar32.jpg?1496096069" alt="Avatar for Disqus user Cato Lindberg">
+          </div>
+          <div class="disqus-widget__content">
+            <div class="disqus-widget__text">
+              <a class="disqus-widget__user" rel="noreferrer" href="https://disqus.com/by/cato_lindberg/" target="_blank">Cato Lindberg</a>
+            Well, I booted your iso image, replaced Nemo with Dolphin&hellip;            </div>
+            <a class="disqus-widget__link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released#comment-5358375895" title="View 'Ubuntu 21.04 Flavours Released, This is What’s New'">
+            Ubuntu 21.04 Flavours Released, This is What’s New            </a>
+          </div>
+        </div>
+                <div class="disqus-widget__comment">
+          <div class="disqus-widget__avatar">
+            <img src="https://c.disquscdn.com/uploads/forums/17/8048/avatar32.jpg?1496096069" alt="Avatar for Disqus user Goyo">
+          </div>
+          <div class="disqus-widget__content">
+            <div class="disqus-widget__text">
+              <a class="disqus-widget__user" rel="noreferrer" href="https://disqus.com/by/disqus_WZsGAMSxvh/" target="_blank">Goyo</a>
+            Didn&#039;t look so obvious when you said &quot;Nothing anyone can&hellip;            </div>
+            <a class="disqus-widget__link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released#comment-5358360385" title="View 'Ubuntu 21.04 Flavours Released, This is What’s New'">
+            Ubuntu 21.04 Flavours Released, This is What’s New            </a>
+          </div>
+        </div>
+                <div class="disqus-widget__comment">
+          <div class="disqus-widget__avatar">
+            <img src="https://c.disquscdn.com/uploads/forums/17/8048/avatar32.jpg?1496096069" alt="Avatar for Disqus user Rudra Saraswat">
+          </div>
+          <div class="disqus-widget__content">
+            <div class="disqus-widget__text">
+              <a class="disqus-widget__user" rel="noreferrer" href="https://disqus.com/by/r_saraswat/" target="_blank">Rudra Saraswat</a>
+            Thank you :)            </div>
+            <a class="disqus-widget__link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released#comment-5358330636" title="View 'Ubuntu 21.04 Flavours Released, This is What’s New'">
+            Ubuntu 21.04 Flavours Released, This is What’s New            </a>
+          </div>
+        </div>
+                <div class="disqus-widget__comment">
+          <div class="disqus-widget__avatar">
+            <img src="https://c.disquscdn.com/uploads/forums/17/8048/avatar32.jpg?1496096069" alt="Avatar for Disqus user Rudra Saraswat">
+          </div>
+          <div class="disqus-widget__content">
+            <div class="disqus-widget__text">
+              <a class="disqus-widget__user" rel="noreferrer" href="https://disqus.com/by/r_saraswat/" target="_blank">Rudra Saraswat</a>
+            By GNOME, I&#039;m referring to the desktop environment, not gnome-shell.&hellip;            </div>
+            <a class="disqus-widget__link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released#comment-5358317838" title="View 'Ubuntu 21.04 Flavours Released, This is What’s New'">
+            Ubuntu 21.04 Flavours Released, This is What’s New            </a>
+          </div>
+        </div>
+                <div class="disqus-widget__comment">
+          <div class="disqus-widget__avatar">
+            <img src="https://c.disquscdn.com/uploads/forums/17/8048/avatar32.jpg?1496096069" alt="Avatar for Disqus user Rudra Saraswat">
+          </div>
+          <div class="disqus-widget__content">
+            <div class="disqus-widget__text">
+              <a class="disqus-widget__user" rel="noreferrer" href="https://disqus.com/by/r_saraswat/" target="_blank">Rudra Saraswat</a>
+            I&#039;m sure you understand this is just one of many&hellip;            </div>
+            <a class="disqus-widget__link" href="https://www.omgubuntu.co.uk/2021/04/ubuntu-21-04-flavours-released#comment-5358301877" title="View 'Ubuntu 21.04 Flavours Released, This is What’s New'">
+            Ubuntu 21.04 Flavours Released, This is What’s New            </a>
+          </div>
+        </div>
+            </div>
+        </aside><aside id="custom_html-2" class="widget_text widget widget_custom_html" role="complementary"><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- OC homepage extra -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0405626765411172"
+     data-ad-slot="2581249274"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></aside></div>
+</div>
+  <footer class="page-footer" role="contentinfo">
+    <div class="page-container box">
+      <ul id="menu-v4-footer" class="footer-links styled-menu"><li id="menu-item-97115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97115"><a href="http://www.omgubuntu.co.uk/about-us">About Us</a></li>
+<li id="menu-item-97116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97116"><a href="http://www.omgubuntu.co.uk/commenting-conduct">Code of Conduct</a></li>
+<li id="menu-item-97117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97117"><a href="http://www.omgubuntu.co.uk/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-131854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131854"><a href="https://www.omgubuntu.co.uk/tip">Contact Us</a></li>
+</ul>      <div class="footer__logo">
+        <a href="https://ohso.io">
+          <img src="https://www.omgubuntu.co.uk/wp-content/themes/omgubuntu-theme-20_08_0/images/ohso-logo.svg" />
+        </a>
+      </div>
+      <div class="footer-copyright">
+        <p>Everything Ubuntu, Daily. Since 2009.</p>
+        <p>&copy; 2021 <a href="http://ohso.io">Ohso Ltd.</a></p>
+        <p><a href="http://ubuntu.com">Ubuntu</a>
+            is a registered trademark of <a href="http://canonical.com">Canonical Ltd</a>.</p>
+      </div>
+    </div>
+  </footer>
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"omgubuntu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://149366088.v2.pressablecdn.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.21' id='disqus_count-js'></script>
+<script type='text/javascript' src='https://149366088.v2.pressablecdn.com/wp-content/themes/omgubuntu-theme-20_08_0/scripts/client.bundle.js?ver=1598267633' id='omg_client-js'></script>
+<script type='text/javascript' src='https://149366088.v2.pressablecdn.com/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js?ver=5.7.1' id='jquery-js'></script>
+<script type='text/javascript' id='jquery-js-after'>
+		/* MonsterInsights Scroll Tracking */
+			if ( typeof(jQuery) !== 'undefined' ) {
+				jQuery( document ).ready(function(){
+					function monsterinsights_scroll_tracking_load() {
+						if ( ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) || ( typeof(__gtagTracker) !== 'undefined' && __gtagTracker ) ) {
+							(function(factory) {
+								factory(jQuery);
+							}(function($) {
+
+								/* Scroll Depth */
+								"use strict";
+								var defaults = {
+									percentage: true
+								};
+
+								var $window = $(window),
+									cache = [],
+									scrollEventBound = false,
+									lastPixelDepth = 0;
+
+								/*
+								 * Plugin
+								 */
+
+								$.scrollDepth = function(options) {
+
+									var startTime = +new Date();
+
+									options = $.extend({}, defaults, options);
+
+									/*
+									 * Functions
+									 */
+
+									function sendEvent(action, label, scrollDistance, timing) {
+                                                                                    var type        = 'event';
+                                            var eventName   = action;
+                                            var fieldsArray = {
+                                                event_category : 'Scroll Depth',
+                                                event_label    : label,
+                                                value          : 1,
+                                                non_interaction: true
+                                            };
+
+                                            if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+                                                return;
+                                            }
+
+                                            MonsterInsightsObject.sendEvent( type, eventName, fieldsArray );
+                                            if (arguments.length > 3) {
+                                                var type        = 'event';
+                                                var eventName   = 'timing_complete';
+                                                fieldsArray = {
+                                                    event_category : 'Scroll Depth',
+                                                    name           : action,
+                                                    event_label    : label,
+                                                    value          : timing,
+                                                    non_interaction: 1
+                                                };
+                                                MonsterInsightsObject.sendEvent( type, eventName, fieldsArray );
+                                            }
+                                        									}
+
+									function calculateMarks(docHeight) {
+										return {
+											'25%' : parseInt(docHeight * 0.25, 10),
+											'50%' : parseInt(docHeight * 0.50, 10),
+											'75%' : parseInt(docHeight * 0.75, 10),
+											/* Cushion to trigger 100% event in iOS */
+											'100%': docHeight - 5
+										};
+									}
+
+									function checkMarks(marks, scrollDistance, timing) {
+										/* Check each active mark */
+										$.each(marks, function(key, val) {
+											if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+												sendEvent('Percentage', key, scrollDistance, timing);
+												cache.push(key);
+											}
+										});
+									}
+
+									function rounded(scrollDistance) {
+										/* Returns String */
+										return (Math.floor(scrollDistance/250) * 250).toString();
+									}
+
+									function init() {
+										bindScrollDepth();
+									}
+
+									/*
+									 * Public Methods
+									 */
+
+									/* Reset Scroll Depth with the originally initialized options */
+									$.scrollDepth.reset = function() {
+										cache = [];
+										lastPixelDepth = 0;
+										$window.off('scroll.scrollDepth');
+										bindScrollDepth();
+									};
+
+									/* Add DOM elements to be tracked */
+									$.scrollDepth.addElements = function(elems) {
+
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+
+										$.merge(options.elements, elems);
+
+										/* If scroll event has been unbound from window, rebind */
+										if (!scrollEventBound) {
+											bindScrollDepth();
+										}
+
+									};
+
+									/* Remove DOM elements currently tracked */
+									$.scrollDepth.removeElements = function(elems) {
+
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+
+										$.each(elems, function(index, elem) {
+
+											var inElementsArray = $.inArray(elem, options.elements);
+											var inCacheArray = $.inArray(elem, cache);
+
+											if (inElementsArray != -1) {
+												options.elements.splice(inElementsArray, 1);
+											}
+
+											if (inCacheArray != -1) {
+												cache.splice(inCacheArray, 1);
+											}
+
+										});
+
+									};
+
+									/*
+									 * Throttle function borrowed from:
+									 * Underscore.js 1.5.2
+									 * http://underscorejs.org
+									 * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+									 * Underscore may be freely distributed under the MIT license.
+									 */
+
+									function throttle(func, wait) {
+										var context, args, result;
+										var timeout = null;
+										var previous = 0;
+										var later = function() {
+											previous = new Date;
+											timeout = null;
+											result = func.apply(context, args);
+										};
+										return function() {
+											var now = new Date;
+											if (!previous) previous = now;
+											var remaining = wait - (now - previous);
+											context = this;
+											args = arguments;
+											if (remaining <= 0) {
+												clearTimeout(timeout);
+												timeout = null;
+												previous = now;
+												result = func.apply(context, args);
+											} else if (!timeout) {
+												timeout = setTimeout(later, remaining);
+											}
+											return result;
+										};
+									}
+
+									/*
+									 * Scroll Event
+									 */
+
+									function bindScrollDepth() {
+
+										scrollEventBound = true;
+
+										$window.on('scroll.scrollDepth', throttle(function() {
+											/*
+											 * We calculate document and window height on each scroll event to
+											 * account for dynamic DOM changes.
+											 */
+
+											var docHeight = $(document).height(),
+												winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+												scrollDistance = $window.scrollTop() + winHeight,
+
+												/* Recalculate percentage marks */
+												marks = calculateMarks(docHeight),
+
+												/* Timing */
+												timing = +new Date - startTime;
+
+											checkMarks(marks, scrollDistance, timing);
+										}, 500));
+
+									}
+
+									init();
+								};
+
+								/* UMD export */
+								return $.scrollDepth;
+
+							}));
+
+							jQuery.scrollDepth();
+						} else {
+							setTimeout(monsterinsights_scroll_tracking_load, 200);
 						}
 					}
-
-					while (win) {
-						try {
-							if (win.frames[TCF_LOCATOR_NAME]) {
-								cmpFrame = win;
-								break;
-							}
-						} catch (ignore) {}
-
-						if (win === window.top) {
-							break;
-						}
-						win = win.parent;
-					}
-					if (!cmpFrame) {
-						addFrame();
-						win.__tcfapi = tcfAPIHandler;
-						win.addEventListener(
-							"message",
-							postMessageEventHandler,
-							false
-						);
-					}
-				}
-
-				makeStub();
-
-				var uspStubFunction = function () {
-					var arg = arguments;
-					if (typeof window.__uspapi !== uspStubFunction) {
-						setTimeout(function () {
-							if (typeof window.__uspapi !== "undefined") {
-								window.__uspapi.apply(window.__uspapi, arg);
-							}
-						}, 500);
-					}
-				};
-
-				var checkIfUspIsReady = function () {
-					uspTries++;
-					if (
-						window.__uspapi === uspStubFunction &&
-						uspTries < uspTriesLimit
-					) {
-						console.warn("USP is not accessible");
-					} else {
-						clearInterval(uspInterval);
-					}
-				};
-
-				if (typeof window.__uspapi === "undefined") {
-					window.__uspapi = uspStubFunction;
-					var uspInterval = setInterval(checkIfUspIsReady, 6000);
-				}
+					monsterinsights_scroll_tracking_load();
+				});
+			}
+		/* End MonsterInsights Scroll Tracking */
+		
+</script>
+		<script type="text/javascript">
+			(function() {
+			var t   = document.createElement( 'script' );
+			t.type  = 'text/javascript';
+			t.async = true;
+			t.id    = 'gauges-tracker';
+			t.setAttribute( 'data-site-id', '5bfac2e4b4571475a7b34afb' );
+			t.src = '//secure.gaug.es/track.js';
+			var s = document.getElementsByTagName( 'script' )[0];
+			s.parentNode.insertBefore( t, s );
 			})();
 		</script>
-		<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
-	</head>
-	<body style="overflow: initial !important">
-		<div style="text-align: center; overflow: hidden; background: #222">
-			<div align="center" id="phoronix_desktop_leaderboard_header">
-				<script data-cfasync="false" type="text/javascript">
-					freestar.config.enabled_slots.push({
-						placementName: "phoronix_desktop_leaderboard_header",
-						slotId: "phoronix_desktop_leaderboard_header",
-					});
-				</script>
-			</div>
-		</div>
-		<div id="headerwrap">
-			<div class="wcontainer defpadding">
-				<a href="?page=home"
-					><img
-						id="logo"
-						alt="Phoronix"
-						src="/phxcms7-css/phoronix.png"
-						style="height: 40px; margin-top: 5px; margin-left: 5px"
-				/></a>
-				<div id="headerright">
-					<div id="social">
-						<a
-							href="https://www.phoronix.com/rss.php"
-							class="icon-rss"
-						></a>
-						<a
-							href="https://twitter.com/Phoronix"
-							class="icon-twitter"
-						></a>
-						<a
-							href="https://www.facebook.com/Phoronix"
-							class="icon-facebook"
-						></a>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div id="litemenu">
-			<ul>
-				<li>
-					<a href="?page=phoronix_articles">Articles &amp; Reviews</a>
-				</li>
-				<li><a href="?page=phoronix_news">News Archive</a></li>
-				<li><a href="https://www.phoronix.com/forums/">Forums</a></li>
-				<li><a href="?page=phoronix_premium">Premium</a></li>
-				<li class="categ icon-angle-circled-down">
-					<span> Categories</span>
-				</li>
-				<li>
-					<a href="?page=category&amp;item=Computers">Computers</a>
-				</li>
-				<li>
-					<a href="?page=category&amp;item=Display+Drivers"
-						>Display Drivers</a
-					>
-				</li>
-				<li>
-					<a href="?page=category&amp;item=Graphics+Cards"
-						>GPUs / Graphics Cards</a
-					>
-				</li>
-				<li>
-					<a href="?page=category&amp;item=Linux+Gaming"
-						>Linux Gaming</a
-					>
-				</li>
-				<li><a href="?page=category&amp;item=Memory">Memory</a></li>
-				<li>
-					<a href="?page=category&amp;item=Motherboards"
-						>Motherboards</a
-					>
-				</li>
-				<li>
-					<a href="?page=category&amp;item=Processors"
-						>CPUs / Processors</a
-					>
-				</li>
-				<li><a href="?page=category&amp;item=Software">Software</a></li>
-				<li><a href="?page=category&amp;item=Storage">Storage</a></li>
-				<li>
-					<a href="?page=category&amp;item=Operating+Systems"
-						>Operating Systems</a
-					>
-				</li>
-				<li>
-					<a href="?page=category&amp;item=Peripherals"
-						>Peripherals</a
-					>
-				</li>
-				<li id="closelid">Close</li>
-			</ul>
-		</div>
-		<div id="menuwrap">
-			<div class="wcontainer">
-				<ul id="linklist">
-					<li id="menubutton"><span class="icon-menu"></span></li>
-					<li class="menulink">
-						<a class="linknode" href="?page=phoronix_articles"
-							>Articles &amp; Reviews</a
-						>
-					</li>
-					<li class="menulink">
-						<a class="linknode" href="?page=phoronix_news"
-							>News Archive</a
-						>
-					</li>
-					<li class="menulink">
-						<a
-							class="linknode"
-							href="https://www.phoronix.com/forums/"
-							>Forums</a
-						>
-					</li>
-					<li class="menulink">
-						<a class="linknode" href="?page=phoronix_premium"
-							>Premium</a
-						>
-					</li>
-					<li id="categories-link" class="menulink">
-						<span class="menunolink icon-angle-circled-down">
-							Categories</span
-						>
-						<div id="categories-list">
-							<div id="categories-content">
-								<a href="?page=category&amp;item=Computers"
-									>Computers</a
-								>
-								<a href="?page=category&amp;item=Graphics+Cards"
-									>GPUs / Graphics Cards</a
-								>
-								<a href="?page=category&amp;item=Linux+Gaming"
-									>Linux Gaming</a
-								>
-								<a href="?page=category&amp;item=Memory"
-									>Memory</a
-								>
-								<a href="?page=category&amp;item=Motherboards"
-									>Motherboards</a
-								>
-								<a href="?page=category&amp;item=Processors"
-									>CPUs / Processors</a
-								>
-								<a href="?page=category&amp;item=Software"
-									>Software</a
-								>
-								<a href="?page=category&amp;item=Storage"
-									>Storage</a
-								>
-								<a
-									href="?page=category&amp;item=Operating+Systems"
-									>Operating Systems</a
-								>
-								<a href="?page=category&amp;item=Peripherals"
-									>Peripherals</a
-								>
-							</div>
-						</div>
-					</li>
-					<li id="searchbox">
-						<div id="search">
-							<form
-								action="https://www.google.com"
-								id="cse-search-box"
-								target="_blank"
-							>
-								<div>
-									<input
-										type="hidden"
-										name="cx"
-										value="partner-pub-0253814508491313:1305299758"
-									/>
-									<input
-										type="hidden"
-										name="ie"
-										value="UTF-8"
-									/>
-									<input type="text" name="q" />
-									<input
-										type="submit"
-										name="sa"
-										value="Search"
-									/>
-								</div>
-							</form>
-
-							<script
-								type="text/javascript"
-								src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"
-							></script>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</div>
-		<div id="content-bg">
-			<div id="content">
-				<div id="main-wrap">
-					<div id="main">
-						<div
-							style="
-								text-align: center;
-								overflow: hidden;
-								margin-bottom: 30px;
-							"
-						>
-							<div
-								align="center"
-								id="phoronix_desktop_leaderboard_atf"
-							>
-								<script
-									data-cfasync="false"
-									type="text/javascript"
-								>
-									freestar.config.enabled_slots.push({
-										placementName:
-											"phoronix_desktop_leaderboard_atf",
-										slotId:
-											"phoronix_desktop_leaderboard_atf",
-									});
-								</script>
-							</div>
-						</div>
-						<!-- google_ad_section_start -->
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=LXQt-0.17-Released"
-									>LXQt 0.17 Released For This Lightweight Qt5
-									Desktop</a
-								>
-							</header>
-							<p>
-								For fans of LXQt or those still looking for a
-								nice lightweight Qt5 desktop, LXQt 0.17 is out
-								as the latest version of this open-source
-								desktop environment.
-							</p>
-							<div class="details">
-								4 Hours Ago -
-								<a href="?page=news_topic&amp;q=Qt">Qt</a> -
-								LXQt 0.17<span class="comments">
-									-
-									<a href="/forums/node/1250953"
-										>25 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=OpenZFS-2.1-rc3-Released"
-									>OpenZFS 2.1-rc3 Delivers More Fixes</a
-								>
-							</header>
-							<p>
-								OpenZFS 2.1 is nearing release as the next
-								feature update to this open-source ZFS
-								file-system implementation currently supporting
-								Linux and FreeBSD systems.
-							</p>
-							<div class="details">
-								6 Hours Ago -
-								<a href="?page=news_topic&amp;q=Linux+Storage"
-									>Linux Storage</a
-								>
-								- OpenZFS 2.1-rc3<span class="comments">
-									-
-									<a href="/forums/node/1250919"
-										>2 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Google-Supports-Rust-Kernel"
-									>Google Supports Getting Rust Into The Linux
-									Kernel</a
-								>
-							</header>
-							<p>
-								It should come as little surprise -- especially
-								given the recent news of Google allowing Rust to
-								be used for Android system-level code -- but
-								engineers at the search giant are in support of
-								Rust code being used within the mainline Linux
-								kernel.
-							</p>
-							<div class="details">
-								6 Hours Ago -
-								<a href="?page=news_topic&amp;q=Google"
-									>Google</a
-								>
-								- Rust The Kernel<span class="comments">
-									-
-									<a href="/forums/node/1250916"
-										>23 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<div
-							style="
-								text-align: center;
-								overflow: hidden;
-								margin-bottom: 10px;
-							"
-						>
-							<div
-								align="center"
-								id="phoronix_leaderboard_incontent_1"
-							>
-								<script
-									data-cfasync="false"
-									type="text/javascript"
-								>
-									freestar.config.enabled_slots.push({
-										placementName:
-											"phoronix_leaderboard_incontent_1",
-										slotId:
-											"phoronix_leaderboard_incontent_1",
-									});
-								</script>
-							</div>
-						</div>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=LLVM-12.0-Released"
-									>LLVM 12.0 Released With Alder Lake +
-									Sapphire Rapids Support, More C++20</a
-								>
-							</header>
-							<p>
-								After the release cycle dragged on an extra
-								month due to blocker bugs, LLVM 12 was
-								officially tagged on Wednesday night as the
-								latest half-year update to this open-source
-								compiler stack.
-							</p>
-							<div class="details">
-								8 Hours Ago -
-								<a href="?page=news_topic&amp;q=LLVM">LLVM</a> -
-								LLVM 12.0<span class="comments">
-									-
-									<a href="/forums/node/1250893"
-										>1 Comment</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Hangover-0.6.5-Released"
-									>Hangover 0.6.5 Released For Running Windows
-									Software On ARM64, POWER</a
-								>
-							</header>
-							<p>
-								A new release of Hangover is now available for
-								getting Wine up and running with
-								cross-architecture support so you can enjoy the
-								likes of Windows games and applications under
-								64-bit ARM and IBM POWER hardware on Linux.
-							</p>
-							<div class="details">
-								9 Hours Ago -
-								<a href="?page=news_topic&amp;q=WINE">WINE</a> -
-								Hangover 0.6.5<span class="comments">
-									-
-									<a href="/forums/node/1250885"
-										>1 Comment</a
-									></span
-								>
-							</div>
-						</article>
-						<div
-							align="center"
-							id="phoronix_leaderboard_incontent_2"
-						>
-							<script data-cfasync="false" type="text/javascript">
-								freestar.config.enabled_slots.push({
-									placementName:
-										"phoronix_leaderboard_incontent_2",
-									slotId: "phoronix_leaderboard_incontent_2",
-								});
-							</script>
-						</div>
-						<h2>14 April</h2>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Metro-Exodus-Linux-Launch"
-									>Metro Exodus Launches For Linux But Off To
-									Bumpy Start</a
-								>
-							</header>
-							<p>
-								As scheduled, Metro Exodus saw its native Linux
-								port debut today. This first person shooter from
-								4A Games launched on Windows and consoles in
-								2019 while the 4A Engine powered game only
-								debuted today for macOS and Linux. Previously it
-								would work with Steam Play but now there is a
-								native Linux port albeit with some kinks still
-								to work out.
-							</p>
-							<div class="details">
-								14 April 08:15 PM EDT -
-								<a href="?page=news_topic&amp;q=Linux+Gaming"
-									>Linux Gaming</a
-								>
-								- Metro Exodus<span class="comments">
-									-
-									<a href="/forums/node/1250839"
-										>31 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Rust-For-Linux-April-2021-RFC"
-									>Rust Support In The Linux Kernel Undergoing
-									Another Round Of Discussions</a
-								>
-							</header>
-							<p>
-								Last month the initial infrastructure for
-								allowing the Rust programming language to be
-								used within the Linux kernel landed in the
-								Linux-Next tree for more widespread testing
-								ahead of its possible inclusion in the mainline
-								kernel. Now a "request for comments" has been
-								started again on the kernel mailing list around
-								the prospects of Rust code for the Linux kernel.
-							</p>
-							<div class="details">
-								14 April 06:29 PM EDT -
-								<a href="?page=news_topic&amp;q=Programming"
-									>Programming</a
-								>
-								- Rust For Linux<span class="comments">
-									-
-									<a href="/forums/node/1250819"
-										>32 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Google-Chrome-90"
-									>Chrome 90 Released With AV1 Encode, New
-									APIs</a
-								>
-							</header>
-							<p>
-								Google officially promoted Chrome 90 to its
-								stable channel today as the latest feature
-								update to their cross-platform web browser.
-							</p>
-							<div class="details">
-								14 April 06:00 PM EDT -
-								<a href="?page=news_topic&amp;q=Google"
-									>Google</a
-								>
-								- Google Chrome 90<span class="comments">
-									-
-									<a href="/forums/node/1250814"
-										>2 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Mesa-21.1-rc1-Released"
-									>Mesa 21.1-rc1 Released With RADV
-									Optimizations, Faster Zink, Many Other New
-									Features</a
-								>
-							</header>
-							<p>
-								Feature development for this quarter's Mesa 21.1
-								release is now over with it having been branched
-								from main and the first release candidate
-								issued.
-							</p>
-							<div class="details">
-								14 April 04:43 PM EDT -
-								<a href="?page=news_topic&amp;q=Mesa">Mesa</a> -
-								Mesa 21.1<span class="comments">
-									-
-									<a href="/forums/node/1250808"
-										>4 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Linux-GNOME-Privacy-Screens"
-									>The Linux Kernel &amp; GNOME Desktop
-									Preparing For Privacy Screen Support</a
-								>
-							</header>
-							<p>
-								Over the past year there has been an uptick in
-								Linux developers from different vendors working
-								on laptop privacy screen support under Linux.
-								When it comes to the support with newer Lenovo
-								ThinkPad laptops, it looks like that kernel
-								support could soon land and the GNOME desktop is
-								already preparing to support this feature.
-							</p>
-							<div class="details">
-								14 April 01:11 PM EDT -
-								<a href="?page=news_topic&amp;q=Hardware"
-									>Hardware</a
-								>
-								- Linux + GNOME<span class="comments">
-									-
-									<a href="/forums/node/1250777"
-										>22 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=NVIDIA-465.24.02-Linux-Driver"
-									>NVIDIA 465.24.02 Linux Driver Released As
-									Stable</a
-								>
-							</header>
-							<p>
-								At the end of March NVIDIA released the 465 beta
-								Linux driver while today has been promoted to
-								stable in the form of the 465.24.02 release.
-							</p>
-							<div class="details">
-								14 April 11:02 AM EDT -
-								<a href="?page=news_topic&amp;q=NVIDIA"
-									>NVIDIA</a
-								>
-								- NVIDIA 465.24.02<span class="comments">
-									-
-									<a href="/forums/node/1250752"
-										>6 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article class="important">
-							<header>
-								<a href="/vr.php?view=30122"
-									>Windows 10 Rockets Ahead Of Ubuntu Linux On
-									The Core i9 11900K For Some Workloads</a
-								>
-							</header>
-							<p>
-								For those wondering how the Windows vs. Linux
-								performance compares with Intel's new Rocket
-								Lake processors for both the CPU performance and
-								some initial cross-platform exposure for the Xe
-								Graphics, here are some preliminary benchmarks
-								with the Core i9 11900K.
-							</p>
-							<div class="details">
-								14 April 09:00 AM EDT -
-								<a
-									href="?page=category&amp;item=Operating+Systems"
-									>Operating Systems</a
-								><span class="comments">
-									-
-									<a href="/forums/node/1250735"
-										>36 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Gigabyte-WMI-For-Linux-5.13"
-									>Gigabyte Motherboard WMI Temperature Driver
-									Queued Ahead Of Linux 5.13</a
-								>
-							</header>
-							<p>
-								Earlier this month I reported on a WMI
-								temperature driver for Gigabyte motherboards
-								being worked on by an independent developer.
-								That "gigabyte-wmi" driver is now slated for
-								inclusion in the upcoming Linux 5.13 cycle.
-							</p>
-							<div class="details">
-								14 April 07:16 AM EDT -
-								<a href="?page=news_topic&amp;q=Hardware"
-									>Hardware</a
-								>
-								- Gigabyte-WMI<span class="comments">
-									-
-									<a href="/forums/node/1250721"
-										>11 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Mesa-21.1-Better-Gallium-Nine"
-									>Mesa 21.1 Squeezes In Improvements For
-									Direct3D 9 (Gallium Nine)</a
-								>
-							</header>
-							<p>
-								The feature freeze and code branching for Mesa
-								21.1 is imminent but last minute feature work
-								continues to pour in. Hitting Mesa Git this
-								morning as the latest activity were some fixes
-								and improvements in Gallium Nine for providing
-								Direct3D 9 support atop Gallium3D drivers to
-								Wine/Windows programs.
-							</p>
-							<div class="details">
-								14 April 06:18 AM EDT -
-								<a href="?page=news_topic&amp;q=Mesa">Mesa</a> -
-								Gallium Nine<span class="comments">
-									-
-									<a href="/forums/node/1250712"
-										>4 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Virgl-Disk-Cache"
-									>Mesa's Virgl Straps On A Simple Disk
-									Cache</a
-								>
-							</header>
-							<p>
-								The "Virgl" virtual 3D GPU project for providing
-								OpenGL (and work-in-progress VirtIO-GPU Vulkan)
-								acceleration within guest virtual machines
-								continues to mature for improving the
-								open-source Linux desktop virtualization stack.
-							</p>
-							<div class="details">
-								14 April 05:51 AM EDT -
-								<a href="?page=news_topic&amp;q=Mesa">Mesa</a> -
-								Disk Cache<span class="comments">
-									-
-									<a href="/forums/node/1250699"
-										>4 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Linux-5.13-ASRock-OpenBMC"
-									>Linux 5.13 To Allow For OpenBMC Development
-									With A Lower-Cost ASRock Rack Motherboard</a
-								>
-							</header>
-							<p>
-								The Linux Foundation's OpenBMC project to
-								provide an open-source BMC firmware stack is
-								quite exciting for freeing this low-level aspect
-								of servers, but finding a supported motherboard
-								that works well with OpenBMC can be a challenge
-								at this stage. Fortunately, Linux 5.13 is set to
-								support a lower-cost motherboard option in hopes
-								of boosting OpenBMC development/usage.
-							</p>
-							<div class="details">
-								14 April 02:00 AM EDT -
-								<a href="?page=news_topic&amp;q=Hardware"
-									>Hardware</a
-								>
-								- Low-Cost Board Option<span class="comments">
-									-
-									<a href="/forums/node/1250673"
-										>Add A Comment</a
-									></span
-								>
-							</div>
-						</article>
-						<h2>13 April</h2>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=FreeBSD-13.0-RELEASE"
-									>FreeBSD 13.0 Brings Better Performance,
-									LLVM Clang 11, Obsolete GNU Bits Removed</a
-								>
-							</header>
-							<p>
-								FreeBSD 13.0-RELEASE is now officially available
-								as the debut of the big FreeBSD 13 feature
-								update.
-							</p>
-							<div class="details">
-								13 April 04:02 PM EDT -
-								<a href="?page=news_topic&amp;q=BSD">BSD</a> -
-								FreeBSD 13.0-RELEASE<span class="comments">
-									-
-									<a href="/forums/node/1250607"
-										>14 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=System76-COSMIC-Desktop"
-									>System76 Developing &quot;COSMIC&quot;
-									Desktop Environment For Pop!_OS</a
-								>
-							</header>
-							<p>
-								System76 has their in-house Pop!_OS Linux
-								distribution derived from Ubuntu and have long
-								been customizing their GNOME-based desktop.
-								However, the Linux PC vendor is now taking
-								things a step further by developing their own
-								desktop environment dubbed COSMIC.
-							</p>
-							<div class="details">
-								13 April 03:29 PM EDT -
-								<a href="?page=news_topic&amp;q=Desktop"
-									>Desktop</a
-								>
-								- System76 COSMIC<span class="comments">
-									-
-									<a href="/forums/node/1250598"
-										>34 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=X.Org-Server-1.20.11"
-									>X.Org Server 1.20.11 Released Due To New
-									Security Advisory</a
-								>
-							</header>
-							<p>
-								Trend Micro's Zero Day Initiative has uncovered
-								another security issue with the X.Org Server.
-							</p>
-							<div class="details">
-								13 April 11:02 AM EDT -
-								<a href="?page=news_topic&amp;q=X.Org">X.Org</a>
-								- xorg-server 1.20.11<span class="comments">
-									-
-									<a href="/forums/node/1250533"
-										>31 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=SiFive-RISC-V-5nm"
-									>SiFive Tapes Out Their First 5nm RISC-V
-									Processor Core</a
-								>
-							</header>
-							<p>
-								SiFive's OpenFive business unit announced today
-								they have completed their first tape out of a
-								RISC-V processor core using TSMC's 5nm process.
-							</p>
-							<div class="details">
-								13 April 09:25 AM EDT -
-								<a href="?page=news_topic&amp;q=RISC-V"
-									>RISC-V</a
-								>
-								- RISC-V At TSMC 5nm<span class="comments">
-									-
-									<a href="/forums/node/1250506"
-										>33 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Vulkan-Video-Provisional-Spec"
-									>Vulkan Video Arrives For New
-									Industry-Standard Video Encode/Decode</a
-								>
-							</header>
-							<p>
-								For years we have been eager to learn more about
-								the long mentioned Vulkan Video API, which was
-								supposed to come in H1-2020, but now has finally
-								arrived with today's v1.2.175 update in
-								provisional form. The new Vulkan Video
-								extensions allow for GPU-accelerated video
-								encode/decode. The initial public work is
-								treated as a provisional specification and with
-								limited codec coverage but will be expanded upon
-								in time.
-							</p>
-							<div class="details">
-								13 April 09:00 AM EDT -
-								<a href="?page=news_topic&amp;q=Vulkan"
-									>Vulkan</a
-								>
-								- Vulkan Video<span class="comments">
-									-
-									<a href="/forums/node/1250500"
-										>38 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Multigenerational-LRU-v2"
-									>Multigenerational LRU Code Updated For
-									Enhancing Linux Kernel Performance</a
-								>
-							</header>
-							<p>
-								Last month Google engineers proposed
-								multi-generational LRU for Linux to enhance the
-								kernel performance and today the work has
-								advanced to a second version.
-							</p>
-							<div class="details">
-								13 April 08:44 AM EDT -
-								<a href="?page=news_topic&amp;q=Linux+Kernel"
-									>Linux Kernel</a
-								>
-								- Multigenerational LRU v2<span
-									class="comments"
-								>
-									-
-									<a href="/forums/node/1250499"
-										>4 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Vulkan-1.2.175-Released"
-									>Vulkan 1.2.175 Published With Many New
-									Extensions</a
-								>
-							</header>
-							<p>
-								Vulkan 1.2.175 is now public as the latest
-								Vulkan API specification and it's bringing with
-								it many new extensions.
-							</p>
-							<div class="details">
-								13 April 07:11 AM EDT -
-								<a href="?page=news_topic&amp;q=Vulkan"
-									>Vulkan</a
-								>
-								- Vulkan 1.2.175<span class="comments">
-									-
-									<a href="/forums/node/1250484"
-										>6 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=AMD-AOMP-13.0-Released"
-									>ROCm AOMP 13.0 Released For OpenMP
-									Offloading To Radeon GPUs</a
-								>
-							</header>
-							<p>
-								AOMP 13.0 is out today as the first update to
-								AMD's Radeon OpenMP offloading compiler since
-								AOMP 11.0 last December.
-							</p>
-							<div class="details">
-								13 April 06:41 AM EDT -
-								<a href="?page=news_topic&amp;q=Radeon"
-									>Radeon</a
-								>
-								- AOMP 13.0<span class="comments">
-									-
-									<a href="/forums/node/1250475"
-										>5 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Slackware-15-Beta"
-									>Slackware 15 Beta Process Begins</a
-								>
-							</header>
-							<p>
-								Back in February Slackware 15.0 went into alpha,
-								nine years since Slackware 14.0 made its debut
-								or even five years since Slackware 14.2. Now
-								Slackware 15.0 is up to its beta phase.
-							</p>
-							<div class="details">
-								13 April 05:49 AM EDT -
-								<a
-									href="?page=news_topic&amp;q=Operating+Systems"
-									>Operating Systems</a
-								>
-								- Slackware 15<span class="comments">
-									-
-									<a href="/forums/node/1250463"
-										>28 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=memfd_secret-Secret-Linux-RAM"
-									>Secret Memory Areas For Linux Might Finally
-									Be Ready With memfd_secret</a
-								>
-							</header>
-							<p>
-								In development for more than one year has been
-								the ability to create secret memory areas on
-								Linux that would be visible only to the owning
-								process and is not mapped for other processes or
-								the kernel page tables. That "memfd_secret"
-								system call has finally materialized in
-								Linux-Next and looking like it could be ready
-								for mainline.
-							</p>
-							<div class="details">
-								13 April 03:00 AM EDT -
-								<a href="?page=news_topic&amp;q=Linux+Security"
-									>Linux Security</a
-								>
-								- memfd_secret<span class="comments">
-									-
-									<a href="/forums/node/1250439"
-										>15 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a href="?page=news_item&amp;px=Arcan-Pipeworld"
-									>Arcan Presents &quot;Pipeworld&quot;
-									Dataflow Computing Interface</a
-								>
-							</header>
-							<p>
-								Arcan, the long running open-source display
-								server built atop a game engine that has
-								embraced technologies like XR/VR and Wayland and
-								claims feature parity with X.Org this week
-								announced their new Pipeworld project.
-							</p>
-							<div class="details">
-								13 April 12:00 AM EDT -
-								<a href="?page=news_topic&amp;q=Desktop"
-									>Desktop</a
-								>
-								- Pipeworld<span class="comments">
-									-
-									<a href="/forums/node/1250416"
-										>7 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<h2>12 April</h2>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Google-Logica-Language"
-									>Google Talks Up Logica As Open-Source
-									Programming Language For Data
-									Manipulation</a
-								>
-							</header>
-							<p>
-								Google engineers are responsible for a number of
-								programming languages like Go and Dart while
-								their newest one to be made public is Logica.
-							</p>
-							<div class="details">
-								12 April 06:33 PM EDT -
-								<a href="?page=news_topic&amp;q=Programming"
-									>Programming</a
-								>
-								- Logica<span class="comments">
-									-
-									<a href="/forums/node/1250394"
-										>13 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=NVIDIA-Grace-CPU"
-									>NVIDIA Announces Grace CPU For ARM-Based
-									AI/HPC Processor</a
-								>
-							</header>
-							<p>
-								NVIDIA announced today in kicking off GTC21 the
-								"Grace" high performance Arm processor for AI
-								and high performance computing workloads. But
-								before getting too excited, this high
-								performance Arm chip isn't expected to be ready
-								until 2023.
-							</p>
-							<div class="details">
-								12 April 12:43 PM EDT -
-								<a href="?page=news_topic&amp;q=NVIDIA"
-									>NVIDIA</a
-								>
-								- NVIDIA Grace CPU<span class="comments">
-									-
-									<a href="/forums/node/1250331"
-										>88 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article class="important">
-							<header>
-								<a href="/vr.php?view=30115"
-									>Radeon Vulkan Variable Rate Shading
-									Benchmarks For Boosting RDNA2 Performance</a
-								>
-							</header>
-							<p>
-								Landing in Mesa 21.1 on Friday was a variable
-								rate shading (VRS) override for the Radeon
-								Vulkan &quot;RADV&quot; driver for providing
-								significant performance boosts by effectively
-								rendering less. This feature is limited to RDNA2
-								graphics processors while here are some
-								benchmarks on what it means for 4K gaming with
-								the AMD Radeon RX 6000 series graphics cards on
-								Linux.
-							</p>
-							<div class="details">
-								12 April 11:26 AM EDT -
-								<a
-									href="?page=category&amp;item=Display+Drivers"
-									>Display Drivers</a
-								><span class="comments">
-									-
-									<a href="/forums/node/1250310"
-										>22 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=KWin-Wayland-Item-Scenes"
-									>KDE KWin Introducing Item-Based Scenes For
-									Improved Wayland Support</a
-								>
-							</header>
-							<p>
-								More KDE KWin Wayland improvements are coming
-								down the pipe.
-							</p>
-							<div class="details">
-								12 April 08:02 AM EDT -
-								<a href="?page=news_topic&amp;q=KDE">KDE</a> -
-								Better KWin Wayland<span class="comments">
-									-
-									<a href="/forums/node/1250283"
-										>29 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Intel-DG1-Booting-Selftests"
-									>Intel DG1 Graphics Card Nears Working State
-									On Linux</a
-								>
-							</header>
-							<p>
-								While these kernel patches aren't expected to
-								land until the Linux 5.14 kernel cycle later in
-								the summer, a set of 19 patches published on
-								Monday morning begin allowing a test system to
-								boot with the DG1 graphics card.
-							</p>
-							<div class="details">
-								12 April 07:00 AM EDT -
-								<a href="?page=news_topic&amp;q=Intel">Intel</a>
-								- Intel DG1 Patches<span class="comments">
-									-
-									<a href="/forums/node/1250279"
-										>34 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Linux-5.13-MSM-SC7280"
-									>MSM DRM Driver Picks Up Initial Support For
-									The Snapdragon SC7280</a
-								>
-							</header>
-							<p>
-								The MSM DRM driver changes have been sent to
-								DRM-Next for this Freedreno aligned project
-								providing open-source graphics/display driver
-								support for Qualcomm SoCs.
-							</p>
-							<div class="details">
-								12 April 05:59 AM EDT -
-								<a href="?page=news_topic&amp;q=Hardware"
-									>Hardware</a
-								>
-								- SC7280<span class="comments">
-									-
-									<a href="/forums/node/1250275"
-										>Add A Comment</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Intel-Rocket-Lake-GCC11"
-									>Intel Rocket Lake Target Added To GCC 11</a
-								>
-							</header>
-							<p>
-								While Intel is often very proactive in adding
-								new CPU families to the open-source GCC and
-								LLVM/Clang compilers where it tends to land a
-								year or more in advance of the processors
-								actually shipping, occasionally there are
-								slipups. Today in fact the "Rocket Lake" support
-								finally was merged into GCC 11 days ahead of
-								that compiler release and after the CPUs were
-								already launched at the end of March.
-							</p>
-							<div class="details">
-								12 April 05:44 AM EDT -
-								<a href="?page=news_topic&amp;q=Intel">Intel</a>
-								- -march=rocketlake<span class="comments">
-									-
-									<a href="/forums/node/1250273"
-										>2 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<h2>11 April</h2>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Linux-5.12-rc7-Released"
-									>Linux 5.12-rc7 Kernel Released - It's Big
-									And Causing Some Concern</a
-								>
-							</header>
-							<p>
-								The Linux 5.12 stable kernel release is quickly
-								approaching but may be challenged by an extra
-								release candidate.
-							</p>
-							<div class="details">
-								11 April 06:47 PM EDT -
-								<a href="?page=news_topic&amp;q=Linux+Kernel"
-									>Linux Kernel</a
-								>
-								- Linux-5.12<span class="comments">
-									-
-									<a href="/forums/node/1250238"
-										>4 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=Linux-5.13-No-Root-AMD-Energy"
-									>Linux 5.13 Will Stop Restricting CPU Power
-									Metrics Access For AMD Energy Driver</a
-								>
-							</header>
-							<p>
-								Following the PLATYPUS discovery last year that
-								CPU energy information could be used for
-								possible side channel attacks, the Intel RAPL
-								counters were not only restricted to root but
-								the "amd_energy" driver for exposing CPU energy
-								information on supported Zen series CPUs was
-								also dialed back to root-only in the name of
-								security. Linux 5.13 is introducing a new
-								mechanism so AMD CPUs will be able to still read
-								the energy counters even if not operating as
-								root.
-							</p>
-							<div class="details">
-								11 April 12:53 PM EDT -
-								<a href="?page=news_topic&amp;q=AMD">AMD</a> -
-								Let Anyone Read It...<span class="comments">
-									-
-									<a href="/forums/node/1250211"
-										>9 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article class="important">
-							<header>
-								<a href="/vr.php?view=30106"
-									>Dynatron A38 Performance For Cooling 280
-									Watt AMD EPYC CPUs</a
-								>
-							</header>
-							<p>
-								Announced in March by Dynatron was their A38 CPU
-								cooler for AMD Ryzen Threadripper and EPYC
-								processors. This heatsink fan is rated for
-								cooling up to 280 Watt SP3/sTRX4/TR4 processors
-								making it capable of cooling even the newest
-								high-end EPYC &quot;Milan&quot; processors with
-								the EPYC 75F3 and 7763 processors. Here are some
-								initial benchmarks of this cooler with the AMD
-								EPYC 7763 server processor.
-							</p>
-							<div class="details">
-								11 April 08:37 AM EDT -
-								<a href="?page=category&amp;item=Peripherals"
-									>Peripherals</a
-								><span class="comments">
-									-
-									<a href="/forums/node/1250201"
-										>10 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=SiFive-FU740-PCIe-Linux-5.13"
-									>SiFive FU740 PCIe Support Queued Ahead Of
-									Linux 5.13</a
-								>
-							</header>
-							<p>
-								Arguably the most interesting RISC-V board
-								announced to date is SiFive's HiFive Unmatched
-								with the FU740 RISC-V SoC that features four
-								U74-MC cores and one S7 embedded core. The
-								HiFive Unmatched also has 16GB of RAM, USB 3.2
-								Gen 1, one PCI Express x16 slot (operating at x8
-								speeds), an NVMe slot, and Gigabit Ethernet. The
-								upstream kernel support for the HiFive Unmatched
-								and the FU740 SoC continues.
-							</p>
-							<div class="details">
-								11 April 06:05 AM EDT -
-								<a href="?page=news_topic&amp;q=RISC-V"
-									>RISC-V</a
-								>
-								- FU740 PCI Express<span class="comments">
-									-
-									<a href="/forums/node/1250195"
-										>12 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<article>
-							<header>
-								<a
-									href="?page=news_item&amp;px=EXT4-Casefolding-With-Encrypt"
-									>EXT4 With Linux 5.13 Looks Like It Will
-									Support Casefolding With Encryption
-									Enabled</a
-								>
-							</header>
-							<p>
-								While EXT4 supports both case-folding for
-								optional case insensitive filenames and does
-								support file-system encryption, at the moment
-								those features are mutually exclusive. But it
-								looks like the upcoming Linux 5.13 kernel will
-								allow casefolding and encryption to be active at
-								the same time.
-							</p>
-							<div class="details">
-								11 April 05:48 AM EDT -
-								<a href="?page=news_topic&amp;q=Linux+Storage"
-									>Linux Storage</a
-								>
-								- EXT4 Casefolding + Encryption<span
-									class="comments"
-								>
-									-
-									<a href="/forums/node/1250194"
-										>5 Comments</a
-									></span
-								>
-							</div>
-						</article>
-						<h1 style="margin: 30px 0 40px">
-							<a href="?page=recent">Past 30 Days Of News</a> |
-							<a href="?page=phoronix_articles"
-								>Articles &amp; Reviews</a
-							>
-							| <a href="?page=phoronix_news">News Archives</a> |
-							<a href="/rss.php">RSS Feed</a>
-						</h1>
-						<!-- google_ad_section_end -->
-					</div>
-				</div>
-				<div id="sidebar-wrap">
-					<div id="sidebar">
-						<aside>
-							<div style="text-align: center">
-								<div align="center" id="phoronix_right_rail_1">
-									<script
-										data-cfasync="false"
-										type="text/javascript"
-									>
-										freestar.config.enabled_slots.push({
-											placementName:
-												"phoronix_right_rail_1",
-											slotId: "phoronix_right_rail_1",
-										});
-									</script>
-								</div>
-							</div>
-						</aside>
-						<aside class="widget">
-							<header>Most Popular News This Week</header>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Apple-M1-For-Linux-5.13"
-									>Initial Apple M1 SoC Support Aims For Linux
-									5.13 Kernel</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=RADV-Render-Less"
-									>Radeon Vulkan Driver Adds Option Of
-									Rendering Less For ~30% Greater
-									Performance</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Xserver-HW-Accel-XWayland-NV"
-									>X.Org Server Git Lands Support For
-									Hardware-Accelerated XWayland With NVIDIA</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=FFmpeg-4.4-Released"
-									>FFmpeg 4.4 Released With AV1 VA-API
-									Decoder, SVT-AV1 Encoding</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Wine-6.6-Released"
-									>Wine 6.6 Released With Better Plug &amp;
-									Play Driver Support</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Radomize-Stack-Syscall-5.13"
-									>Linux 5.13 Poised To Allow Randomizing
-									Kernel Stack Offset At Each System Call</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=VirtIO-GPU-Venus-Vulkan"
-									>Google's VirtIO-GPU &quot;Venus&quot;
-									Vulkan Driver Merged Into Mesa 21.1</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=AMDGPU-Navi-1x-ASPM"
-									>AMD Finally Flipping On ASPM For Navi 1x To
-									Lower Power Consumption</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Linux-5.12-rc7-Released"
-									>Linux 5.12-rc7 Kernel Released - It's Big
-									And Causing Some Concern</a
-								>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=KDE-More-Crash-Fixes-April-2021"
-									>KDE Lands More Crash Fixes, Activities
-									Feature Working On Wayland</a
-								>
-							</div>
-							<header>Popular In The Forums</header>
-							<div class="popular-list">
-								<a href="/forums/node/1250331&amp;goto=newpost"
-									>NVIDIA Announces Grace CPU For ARM-Based
-									AI/HPC Processor</a
-								>
-								<span class="comments">88 Comments</span>
-							</div>
-							<div class="popular-list">
-								<a href="/forums/node/1249928&amp;goto=newpost"
-									>X.Org Server Git Lands Support For
-									Hardware-Accelerated XWayland With NVIDIA</a
-								>
-								<span class="comments">42 Comments</span>
-							</div>
-							<div class="popular-list">
-								<a href="/forums/node/1249731&amp;goto=newpost"
-									>Initial Apple M1 SoC Support Aims For Linux
-									5.13 Kernel</a
-								>
-								<span class="comments">40 Comments</span>
-							</div>
-							<div class="popular-list">
-								<a href="/forums/node/1249626&amp;goto=newpost"
-									>XScreenSaver 6.0 Released With Increased
-									Security, Better EGL & GLSL/GLES 3.0
-									Support</a
-								>
-								<span class="comments">41 Comments</span>
-							</div>
-							<div class="popular-list">
-								<a href="/forums/node/1249436&amp;goto=newpost"
-									>AVX / AVX2 / AVX-512 Performance + Power On
-									Intel Rocket Lake</a
-								>
-								<span class="comments">59 Comments</span>
-							</div>
-						</aside>
-						<aside>
-							<div style="text-align: center">
-								<div align="center" id="phoronix_right_rail_2">
-									<script
-										data-cfasync="false"
-										type="text/javascript"
-									>
-										freestar.config.enabled_slots.push({
-											placementName:
-												"phoronix_right_rail_2",
-											slotId: "phoronix_right_rail_2",
-										});
-									</script>
-								</div>
-							</div>
-						</aside>
-						<aside class="widget">
-							<header>Show Your Support, Go Premium</header>
-							<p>
-								<a
-									href="https://www.phoronix.com/scan.php?page=phoronix_premium"
-									>Phoronix Premium</a
-								>
-								allows ad-free access to the site, multi-page
-								articles on a single page, and other features
-								while supporting this site's continued
-								operations.
-							</p>
-						</aside>
-						<aside class="widget">
-							<header>Latest Featured Articles</header>
-							<div class="popular-list">
-								<a href="/vr.php?view=30122"
-									>Windows 10 Rockets Ahead Of Ubuntu Linux On
-									The Core i9 11900K For Some Workloads</a
-								>
-							</div>
-							<div class="popular-list">
-								<a href="/vr.php?view=30115"
-									>Radeon Vulkan Variable Rate Shading
-									Benchmarks For Boosting RDNA2 Performance</a
-								>
-							</div>
-							<div class="popular-list">
-								<a href="/vr.php?view=30106"
-									>Dynatron A38 Performance For Cooling 280
-									Watt AMD EPYC CPUs</a
-								>
-							</div>
-							<div class="popular-list">
-								<a href="/vr.php?view=30098"
-									>AMD EPYC 7003 Series Working Out Well With
-									The Supermicro H12SSL-i</a
-								>
-							</div>
-							<div class="popular-list">
-								<a href="/vr.php?view=30091"
-									>AVX / AVX2 / AVX-512 Performance + Power On
-									Intel Rocket Lake</a
-								>
-							</div>
-							<header>Popular Articles In The Past</header>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Linux-GNOME-Privacy-Screens"
-									>The Linux Kernel &amp; GNOME Desktop
-									Preparing For Privacy Screen Support</a
-								>
-								<span class="comments">Yesterday</span>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Apple-M1-For-Linux-5.13"
-									>Initial Apple M1 SoC Support Aims For Linux
-									5.13 Kernel</a
-								>
-								<span class="comments">7 Days Ago</span>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Git-2.31-Released"
-									>Git 2.31 Released With Moving More Of The
-									Bisecting Code To C</a
-								>
-								<span class="comments">One Month Ago</span>
-							</div>
-							<div class="popular-list">
-								<a href="?page=news_item&amp;px=XFS-Linux-5.10"
-									>XFS File-System With Linux 5.10 Punts Year
-									2038 Problem To The Year 2486</a
-								>
-								<span class="comments">Six Months Ago</span>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=KWinFT-KDE-KWin-Forked"
-									>KWinFT: KDE's KWin Forked To Focus On
-									Better Wayland Support, Modern
-									Technologies</a
-								>
-								<span class="comments">One Year Ago</span>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Debian-10-150-RC-Bugs"
-									>Debian 10 &quot;Buster&quot; Has Around 150
-									Release Critical Bugs At The Moment</a
-								>
-								<span class="comments">Two Years Ago</span>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Linux-4.17-rc1-Released"
-									>Linux 4.17-rc1 Kernel Released: A Ton Of
-									New Functionality While Shedding Old Code</a
-								>
-								<span class="comments">Three Years Ago</span>
-							</div>
-							<div class="popular-list">
-								<a
-									href="?page=news_item&amp;px=Intel-Mesa-Vulkan-Merged"
-									>Intel's Vulkan Driver Merged Into Mainline
-									Mesa</a
-								>
-								<span class="comments">Five Years Ago</span>
-							</div>
-							<div class="popular-list">
-								<a href="?page=news_item&amp;px=OTMzMg"
-									>Super! Patented Mesa Floating-Point Is
-									Merged!</a
-								>
-								<span class="comments">Ten Years Ago</span>
-							</div>
-						</aside>
-						<aside>
-							<div style="text-align: center">
-								<div
-									style="
-										position: sticky;
-										top: 0;
-										position: -webkit-sticky;
-									"
-								>
-									<div
-										align="center"
-										id="phoronix_right_rail_3"
-									>
-										<script
-											data-cfasync="false"
-											type="text/javascript"
-										>
-											freestar.config.enabled_slots.push({
-												placementName:
-													"phoronix_right_rail_3",
-												slotId: "phoronix_right_rail_3",
-											});
-										</script>
-									</div>
-								</div>
-							</div>
-						</aside>
-						<aside class="widget">
-							<header>Support Phoronix</header>
-							<p>
-								The mission at Phoronix since 2004 has centered
-								around enriching the Linux hardware experience.
-								In addition to supporting our site through
-								advertisements, you can help by
-								<a href="?page=phoronix_premium"
-									>subscribing to Phoronix Premium</a
-								>. You can also contribute to Phoronix through a
-								<a
-									href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3778540"
-									>PayPal tip</a
-								>.
-							</p>
-						</aside>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div id="footer">
-			<div id="footer-content">
-				<p align="center"></p>
-				<div id="footer-left">
-					<div id="footer-left-content">
-						<div class="extra-info">
-							<header>Phoronix Media</header>
-							<hr />
-							<ul>
-								<li>
-									<a href="https://openbenchmarking.org/"
-										>OpenBenchmarking.org</a
-									>
-								</li>
-							</ul>
-						</div>
-						<div class="extra-info">
-							<header>Phoronix Premium</header>
-							<hr />
-							<a href="?page=phoronix_premium"
-								><ul>
-									<li>Support Phoronix</li>
-									<li>While Having Ad-Free Browsing,</li>
-									<li>Single-Page Article Viewing</li>
-								</ul></a
-							>
-						</div>
-						<div class="extra-info">
-							<header>Share</header>
-							<hr />
-							<ul>
-								<li>
-									<a href="https://facebook.com/Phoronix"
-										>Facebook</a
-									>
-								</li>
-								<li>
-									<a href="https://twitter.com/Phoronix"
-										>Twitter</a
-									>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div id="footer-right">
-					<div class="extra-info">
-						<ul>
-							<li>
-								<p>
-									<a href="?page=legal"
-										>Legal Disclaimer, Privacy Policy</a
-									>
-									|
-									<a
-										href="https://www.phoronix-media.com/?k=contact"
-										>Contact</a
-									>
-								</p>
-							</li>
-							<li>
-								<p>
-									Copyright &copy; 2004 - 2021 by
-									<a href="https://www.phoronix-media.com/"
-										>Phoronix Media</a
-									>.
-								</p>
-							</li>
-							<li>
-								<p>
-									All trademarks used are properties of their
-									respective owners. All rights reserved.
-								</p>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			function lmm() {
-				if (litemenu.style.zIndex > 0) litemenu.style.zIndex = -1;
-				else litemenu.style.zIndex = 1;
-			}
-
-			menubutton.addEventListener(
-				"click",
-				function () {
-					lmm();
-				},
-				false
-			);
-			closelid.addEventListener(
-				"click",
-				function () {
-					litemenu.style.zIndex = -1;
-				},
-				false
-			);
-		</script>
-	</body>
+		<script src='https://stats.wp.com/e-202116.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.6.1',blog:'15653409',post:'0',tz:'1',srv:'www.omgubuntu.co.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '15653409', '0' ]);
+</script>
+</body>
 </html>
-
+<!--
+	generated 55 seconds ago
+	generated in 0.498 seconds
+	served from batcache in 0.003 seconds
+	expires in 245 seconds
+-->
